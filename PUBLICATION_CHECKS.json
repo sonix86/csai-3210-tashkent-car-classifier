@@ -1,6 +1,6 @@
 {
-  "files": 146,
-  "bytes": 8712285,
+  "files": 147,
+  "bytes": 8717363,
   "largest": [
     {
       "path": "data_external/detection_review.json",
@@ -45,6 +45,5 @@
   ],
   "no_models_or_photos_in_git": true,
   "historical_metrics_included": true,
-  "github_cli": "Not installed / not on PATH; gh auth status could not execute",
-  "published": false
+  "note": "Local file inventory only. Live publication and GitHub account verification are recorded in PUBLISHED_RELEASE.json; historical pre-publication tests remain in PUBLICATION_TESTS.json."
 }

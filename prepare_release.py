@@ -40,7 +40,13 @@ def main():
     manifest=dict(status='Prepared locally; NOT uploaded. No release URL exists yet.',assets=records,
         restore={'csai3210-first-best.pt':['runs/first/best.pt','runs/second/baseline_best.pt'],'csai3210-second-best.pt':['runs/second/best.pt'],'zip_files':'Extract at repository root, preserving paths; never overwrite differing originals.'},
         dataset_permissions='Commons files keep individual licences and sidecars. Tashkent originals require owner approval before any upload. No blanket dataset licence is granted here.')
-    (ROOT/'release_assets.json').write_text(json.dumps(manifest,indent=2),encoding='utf8')
+    existing=ROOT/'release_assets.json'
+    if existing.exists():
+        previous=json.loads(existing.read_text(encoding='utf8'))
+        if previous.get('published'):
+            assert previous['assets']==[dict(r,download_url=next(a['download_url'] for a in previous['assets'] if a['file']==r['file'])) for r in records]
+            manifest=previous  # Never replace verified published URLs with staging status.
+    existing.write_text(json.dumps(manifest,indent=2),encoding='utf8')
     print(json.dumps(records,indent=2))
 
 if __name__=='__main__':main()

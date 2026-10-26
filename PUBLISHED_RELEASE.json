@@ -1,0 +1,46 @@
+{
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/sonix86/csai-3210-tashkent-car-classifier/releases/download/v1.0.0/csai3210-commons-reviewed.zip",
+      "digest": "sha256:77dde7e4b09c82661ba0034975da620eb2c46a859fe9afb0c02f6560c60b8b31",
+      "name": "csai3210-commons-reviewed.zip",
+      "size": 102731385,
+      "state": "uploaded"
+    },
+    {
+      "browser_download_url": "https://github.com/sonix86/csai-3210-tashkent-car-classifier/releases/download/v1.0.0/csai3210-first-best.pt",
+      "digest": "sha256:4dd17d10e9b1a6d92b5e2bc7a11b1c8027abf2d1278d643c755a14c3966e74e8",
+      "name": "csai3210-first-best.pt",
+      "size": 24073291,
+      "state": "uploaded"
+    },
+    {
+      "browser_download_url": "https://github.com/sonix86/csai-3210-tashkent-car-classifier/releases/download/v1.0.0/csai3210-second-best.pt",
+      "digest": "sha256:d8149c8bd7ae0d69142b6fda2398dd8d713c5581cd0e105ac2d3af49ff710c55",
+      "name": "csai3210-second-best.pt",
+      "size": 24053387,
+      "state": "uploaded"
+    },
+    {
+      "browser_download_url": "https://github.com/sonix86/csai-3210-tashkent-car-classifier/releases/download/v1.0.0/csai3210-tashkent-originals-and-crops.zip",
+      "digest": "sha256:ccbaddcc029763084425ae4e04dfd71cb8c595b4a7e37d1fa939b81c60b6d2bd",
+      "name": "csai3210-tashkent-originals-and-crops.zip",
+      "size": 32835378,
+      "state": "uploaded"
+    },
+    {
+      "browser_download_url": "https://github.com/sonix86/csai-3210-tashkent-car-classifier/releases/download/v1.0.0/SHA256SUMS.txt",
+      "digest": "sha256:9eb2834ad56499026632ad1b4aee86e766d835c8947fa037ac123b3479c3cfe1",
+      "name": "SHA256SUMS.txt",
+      "size": 387,
+      "state": "uploaded"
+    }
+  ],
+  "draft": false,
+  "url": "https://github.com/sonix86/csai-3210-tashkent-car-classifier/releases/tag/v1.0.0",
+  "published": true,
+  "account": "sonix86",
+  "repository": "https://github.com/sonix86/csai-3210-tashkent-car-classifier",
+  "verified_at_utc": "2026-10-26T14:47:33.899053+00:00",
+  "asset_sizes_and_sha256_verified": true
+}

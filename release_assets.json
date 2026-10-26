@@ -1,25 +1,29 @@
 {
-  "status": "Prepared locally; NOT uploaded. No release URL exists yet.",
+  "status": "Published; uploaded assets verified against GitHub-reported SHA256.",
   "assets": [
     {
       "file": "csai3210-commons-reviewed.zip",
       "bytes": 102731385,
-      "sha256": "77dde7e4b09c82661ba0034975da620eb2c46a859fe9afb0c02f6560c60b8b31"
+      "sha256": "77dde7e4b09c82661ba0034975da620eb2c46a859fe9afb0c02f6560c60b8b31",
+      "download_url": "https://github.com/sonix86/csai-3210-tashkent-car-classifier/releases/download/v1.0.0/csai3210-commons-reviewed.zip"
     },
     {
       "file": "csai3210-tashkent-originals-and-crops.zip",
       "bytes": 32835378,
-      "sha256": "ccbaddcc029763084425ae4e04dfd71cb8c595b4a7e37d1fa939b81c60b6d2bd"
+      "sha256": "ccbaddcc029763084425ae4e04dfd71cb8c595b4a7e37d1fa939b81c60b6d2bd",
+      "download_url": "https://github.com/sonix86/csai-3210-tashkent-car-classifier/releases/download/v1.0.0/csai3210-tashkent-originals-and-crops.zip"
     },
     {
       "file": "csai3210-first-best.pt",
       "bytes": 24073291,
-      "sha256": "4dd17d10e9b1a6d92b5e2bc7a11b1c8027abf2d1278d643c755a14c3966e74e8"
+      "sha256": "4dd17d10e9b1a6d92b5e2bc7a11b1c8027abf2d1278d643c755a14c3966e74e8",
+      "download_url": "https://github.com/sonix86/csai-3210-tashkent-car-classifier/releases/download/v1.0.0/csai3210-first-best.pt"
     },
     {
       "file": "csai3210-second-best.pt",
       "bytes": 24053387,
-      "sha256": "d8149c8bd7ae0d69142b6fda2398dd8d713c5581cd0e105ac2d3af49ff710c55"
+      "sha256": "d8149c8bd7ae0d69142b6fda2398dd8d713c5581cd0e105ac2d3af49ff710c55",
+      "download_url": "https://github.com/sonix86/csai-3210-tashkent-car-classifier/releases/download/v1.0.0/csai3210-second-best.pt"
     }
   ],
   "restore": {
@@ -32,5 +36,9 @@
     ],
     "zip_files": "Extract at repository root, preserving paths; never overwrite differing originals."
   },
-  "dataset_permissions": "Commons files keep individual licences and sidecars. Tashkent originals require owner approval before any upload. No blanket dataset licence is granted here."
+  "dataset_permissions": "Owner explicitly authorized publication of the reviewed project and prepared data archives. Commons images keep individual licences and attribution; no blanket licence on Tashkent originals is granted.",
+  "published": true,
+  "repository": "https://github.com/sonix86/csai-3210-tashkent-car-classifier",
+  "release_url": "https://github.com/sonix86/csai-3210-tashkent-car-classifier/releases/tag/v1.0.0",
+  "checksums_url": "https://github.com/sonix86/csai-3210-tashkent-car-classifier/releases/download/v1.0.0/SHA256SUMS.txt"
 }

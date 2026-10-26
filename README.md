@@ -1,5 +1,10 @@
 # CSAI-3210 Midterm — Tashkent car classifier
 
+Repository: https://github.com/sonix86/csai-3210-tashkent-car-classifier
+
+**Published release:** [v1.0.0 — weights and datasets](https://github.com/sonix86/csai-3210-tashkent-car-classifier/releases/tag/v1.0.0).
+All five uploaded assets were verified against GitHub's reported SHA256 digests.
+
 **Public-data experiment completed (26 October):** 502 individually licensed,
 visually reviewed Commons crops were added (18 makes). The fixed CUDA fine-tune
 took 82.07 seconds; `runs/second/best.pt` was selected on public development data.
@@ -57,17 +62,24 @@ Do not rely on the default PyPI command alone to select a CUDA build.
 ## Restoring weights and data after cloning
 
 Images, binary weights, runtimes and caches are deliberately absent from Git.
-No release has been published yet; `release_assets.json` lists prepared local
-assets, sizes and SHA256 hashes. See [publication plan](PUBLISHING.md).
+`release_assets.json` lists published assets, download links, sizes and SHA256
+hashes. See [publication record](PUBLISHING.md).
 
-When the owner publishes the release, download its assets and verify SHA256
-before extraction. Extract `csai3210-tashkent-originals-and-crops.zip` and
+Download [release v1.0.0](https://github.com/sonix86/csai-3210-tashkent-car-classifier/releases/tag/v1.0.0)
+and verify SHA256 against `SHA256SUMS.txt` before extraction. With GitHub CLI:
+
+```powershell
+gh release download v1.0.0 --repo sonix86/csai-3210-tashkent-car-classifier --dir .publication/downloads
+```
+
+Extract `csai3210-tashkent-originals-and-crops.zip` and
 `csai3210-commons-reviewed.zip` at the repository root, preserving paths.
 Keep Commons attribution sidecars with the images. Restore
 `csai3210-first-best.pt` to both `runs/first/best.pt` and
 `runs/second/baseline_best.pt` (the same unchanged bytes), and
 `csai3210-second-best.pt` to `runs/second/best.pt`. Never overwrite differing
-original photographs. GitHub Release URLs will be added only after publication.
+original photographs. The release contains both measured models; the second is
+experimental and did not improve overall recognition.
 
 The Tashkent archive contains 76 unchanged originals and the 52 active crops.
 The Commons archive contains only the 502 accepted crops with individual licence

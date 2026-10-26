@@ -19,7 +19,7 @@ def main():
     assert not any(r['bytes']>=100*1024**2 for r in records)
     with (ROOT/'PUBLICATION_FILES.csv').open('w',encoding='utf-8-sig',newline='') as f:
         w=csv.DictWriter(f,fieldnames=['path','bytes']);w.writeheader();w.writerows(records)
-    checks=dict(files=len(records),bytes=sum(r['bytes'] for r in records),largest=sorted(records,key=lambda r:r['bytes'],reverse=True)[:10],no_models_or_photos_in_git=True,historical_metrics_included=True,github_cli='Not installed / not on PATH; gh auth status could not execute',published=False)
+    checks=dict(files=len(records),bytes=sum(r['bytes'] for r in records),largest=sorted(records,key=lambda r:r['bytes'],reverse=True)[:10],no_models_or_photos_in_git=True,historical_metrics_included=True,note='Local file inventory only. Live publication and GitHub account verification are recorded in PUBLISHED_RELEASE.json; historical pre-publication tests remain in PUBLICATION_TESTS.json.')
     (ROOT/'PUBLICATION_CHECKS.json').write_text(json.dumps(checks,indent=2),encoding='utf8')
     print(json.dumps(checks,indent=2))
 
