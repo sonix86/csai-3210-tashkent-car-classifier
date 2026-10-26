@@ -1,0 +1,77 @@
+﻿photo_number,status,accepted_crops,vehicle_ids,review_notes
+1,accepted_objects,1,kia_taxi_black,Rear KIA badge; same taxi as 2; Other tiny occluded or uncertain background cars not annotated.
+2,accepted_objects,1,kia_taxi_black,Rear KIA badge and matching taxi markings; Other tiny occluded or uncertain background cars not annotated.
+3,accepted_objects,1,voyah_black_777,Front emblem; matching plate on 6; Other tiny occluded or uncertain background cars not annotated.
+4,excluded,0,,Extreme close-up of side panel; replaced by fuller views 3 and 6
+5,excluded,0,,Partial side/rear view; fuller linked views 3 and 6 retained
+6,accepted_objects,1,voyah_black_777,Rear VOYAH lettering and plate matching 3; Other tiny occluded or uncertain background cars not annotated.
+7,excluded,0,,Badge obscured by chain; brand not sufficiently certain
+8,excluded,0,,Same sedan and location as 7; unresolved brand; no promotion
+9,accepted_objects,1,chevrolet_white_047,Gold bowtie on right foreground sedan; partial rear outside frame; Other tiny occluded or uncertain background cars not annotated.
+10,accepted_objects,1,haval_silver_777,Rear HAVAL lettering; Other tiny occluded or uncertain background cars not annotated.
+11,accepted_objects,1,haval_silver_777,Same SUV and parking position as 10; Other tiny occluded or uncertain background cars not annotated.
+12,accepted_objects,1,chevrolet_trailblazer_black,TRAILBLAZER side badge; same car as 16; Other tiny occluded or uncertain background cars not annotated.
+13,excluded,0,,Van badge not readable; neighbouring car truncated
+14,accepted_objects,1,deepal_black_261,Rear Deepal emblem and S07 badge; Other tiny occluded or uncertain background cars not annotated.
+15,accepted_objects,1,chevrolet_white_spark_parking,Chevrolet bowtie on white hatchback at left; Other tiny occluded or uncertain background cars not annotated.
+16,accepted_objects,1,chevrolet_trailblazer_black,Large rear Chevrolet bowtie and Trailblazer lettering; Other tiny occluded or uncertain background cars not annotated.
+17,excluded,0,,Distant moving white SUV; badge not sufficiently readable
+18,accepted_objects,1,li_auto_grey_611,Li hood emblem; grey body; Other tiny occluded or uncertain background cars not annotated.
+19,accepted_objects,1,bmw_black_065,BMW roundel and grille; Other tiny occluded or uncertain background cars not annotated.
+20,accepted_objects,1,byd_black_265,Front emblem; plate links 59 and 61; Other tiny occluded or uncertain background cars not annotated.
+21,excluded,0,,Uncertain emblem and overlapping vehicles; no brand guessed
+22,accepted_objects,1,chevrolet_white_267,Rear Chevrolet bowtie; Other tiny occluded or uncertain background cars not annotated.
+23,excluded,0,,Partly pillar-occluded front; no sufficiently certain label
+24,accepted_objects,1,chevrolet_grey_058,Rear Chevrolet bowtie; same visible car at left of 61; Other tiny occluded or uncertain background cars not annotated.
+25,accepted_objects,1,chevrolet_black_090,Rear Chevrolet bowtie; Other tiny occluded or uncertain background cars not annotated.
+26,accepted_objects,1,chevrolet_black_519,Front Chevrolet bowtie on left parked car; Other tiny occluded or uncertain background cars not annotated.
+27,accepted_objects,2,kia_white_080;kia_grey_484,Oval KIA badge on white sedan; New KIA wordmark on grey SUV; Other tiny occluded or uncertain background cars not annotated.
+28,accepted_objects,1,leapmotor_white_015,Clear Leapmotor hood emblem; Other tiny occluded or uncertain background cars not annotated.
+29,accepted_objects,1,deepal_white_199,Distinct Deepal emblem matching S07 reference; rear partly occluded by foliage; Other tiny occluded or uncertain background cars not annotated.
+30,accepted_objects,1,kia_black_867,New KIA wordmark; Other tiny occluded or uncertain background cars not annotated.
+31,excluded,0,,Side-only MPV; brand and identity not confirmed
+32,accepted_objects,2,kia_white_080;kia_grey_484,Same plate and sedan as 27; Same KIA SUV and parking bay as 27; rear outside right frame; Other tiny occluded or uncertain background cars not annotated.
+33,excluded,0,,Distant moving vehicles and reflections; no confident usable label
+34,excluded,0,,Badges on two front SUVs not sufficiently certain; rear sedan occluded
+35,accepted_objects,1,bmw_grey_460,BMW hood roundel; Other tiny occluded or uncertain background cars not annotated.
+36,excluded,0,,MPV emblem not confidently assigned to a brand in this review
+37,accepted_objects,1,byd_grey_757,Front BYD lettering; Other tiny occluded or uncertain background cars not annotated.
+38,excluded,0,,Tesla plate links 62; heavily occluded by foreground objects; use 62
+39,accepted_objects,1,chevrolet_grey_348,Front Chevrolet bowtie; full vehicle box replaces truncated old crop; Other tiny occluded or uncertain background cars not annotated.
+40,accepted_objects,1,chevrolet_white_tracker,Rear Chevrolet bowtie; Other tiny occluded or uncertain background cars not annotated.
+41,excluded,0,,Same MPV as 36; no brand promoted without confidence
+42,accepted_objects,1,chevrolet_white_867,Rear Chevrolet bowtie; Other tiny occluded or uncertain background cars not annotated.
+43,accepted_objects,1,byd_black_005,Rear BYD wordmark; Other tiny occluded or uncertain background cars not annotated.
+44,accepted_objects,1,aion_white_717,GAC emblem; AION lettering in matching rear view 72; Other tiny occluded or uncertain background cars not annotated.
+45,excluded,0,,Unfamiliar badge; brand unresolved
+46,excluded,0,,Foreground hatchback cut off and MPV brand unresolved
+47,excluded,0,,Side-only moving SUV; no readable badge
+48,accepted_objects,1,byd_black_478,BYD front emblem; Other tiny occluded or uncertain background cars not annotated.
+49,excluded,0,,Main sedan brand unresolved; BMW at right too heavily cropped; use 52
+50,excluded,0,,Distant row of vehicles; insufficient clear evidence for usable labels
+51,accepted_objects,1,toyota_black_351,Toyota oval emblem; Other tiny occluded or uncertain background cars not annotated.
+52,accepted_objects,1,bmw_grey_yellow_plate,BMW hood roundel; same grey BMW in right edge of 49; Other tiny occluded or uncertain background cars not annotated.
+53,excluded,0,,Side-only partial sedan; previous label removed from active set because badge absent
+54,accepted_objects,1,skoda_brown_07026,Rear SKODA lettering; clearly bronze brown body; Other tiny occluded or uncertain background cars not annotated.
+55,accepted_objects,1,byd_grey_492,BYD hood wordmark; Other tiny occluded or uncertain background cars not annotated.
+56,accepted_objects,1,chery_beige_taxi,Chery rear emblem; beige body maps to brown not white; Other tiny occluded or uncertain background cars not annotated.
+57,accepted_objects,1,zeekr_grey_956,Same wheels body and location as front view 58; Other tiny occluded or uncertain background cars not annotated.
+58,accepted_objects,1,zeekr_grey_956,Clear rectangular Zeekr hood badge; Other tiny occluded or uncertain background cars not annotated.
+59,accepted_objects,1,byd_black_265,Plate matches 20 and 61; Other tiny occluded or uncertain background cars not annotated.
+60,accepted_objects,1,byd_black_265,Same sedan wheels location and continuous sequence as 59 and 61; Other tiny occluded or uncertain background cars not annotated.
+61,accepted_objects,1,byd_black_265,Same plate and front emblem as 20; Other tiny occluded or uncertain background cars not annotated.
+62,accepted_objects,1,tesla_white_359,Tesla T rear badge; matching plate in 38; Other tiny occluded or uncertain background cars not annotated.
+63,excluded,0,,Dark side view in Tesla sequence; weak identity/quality evidence; not added
+64,excluded,0,,Rear MPV badge not confidently assigned; adjacent cars occluded
+65,accepted_objects,1,tesla_white_359,Same white Tesla in road sequence as 62; grouped conservatively; Other tiny occluded or uncertain background cars not annotated.
+66,excluded,0,,Near-duplicate dark Tesla road frame; clearer 62 and 65 retained in one group
+67,excluded,0,,Cars too small and distant for confident annotations
+68,excluded,0,,MPV rear emblem unresolved in this review; no guess
+69,excluded,0,,Distant dark row and unresolved main MPV brand
+70,accepted_objects,1,byd_grey_757,BYD rear lettering; same grey sedan wheel pattern as 37; conservative identity merge; Other tiny occluded or uncertain background cars not annotated.
+71,excluded,0,,Near-duplicate of 70; one rear-side view sufficient
+72,accepted_objects,1,aion_white_717,Rear AION lettering and matching plate; Other tiny occluded or uncertain background cars not annotated.
+73,accepted_objects,1,byd_white_209,Large BYD front lettering; Other tiny occluded or uncertain background cars not annotated.
+74,accepted_objects,1,aion_white_717,Same plate and front as 44; Other tiny occluded or uncertain background cars not annotated.
+75,accepted_objects,1,byd_white_209,Rear BYD lettering and matching plate; Other tiny occluded or uncertain background cars not annotated.
+76,accepted_objects,2,leapmotor_black_701;chevrolet_white_spark_garage,Clear Leapmotor hood emblem matching 28; Gold bowtie on white hatchback at left; Other tiny occluded or uncertain background cars not annotated.

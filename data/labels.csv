@@ -1,0 +1,53 @@
+crop,source,brand,colour,vehicle_id,photo,bbox,evidence
+crops/reviewed_v2_6f3cb2ca5b1e1c81.jpg,group_cb84d49354ebeb60,Kia,black,kia_taxi_black,cars_photos/photo_1_2026-10-26_17-10-50.jpg,"[0, 435, 729, 1024]",Rear KIA badge; same taxi as 2
+crops/reviewed_v2_a34130a3a68acf67.jpg,group_cb84d49354ebeb60,Kia,black,kia_taxi_black,cars_photos/photo_2_2026-10-26_17-10-50.jpg,"[134, 448, 883, 1011]",Rear KIA badge and matching taxi markings
+crops/reviewed_v2_fd25f492f46af2f9.jpg,group_a2759cc2d2d7aa76,Voyah,black,voyah_black_777,cars_photos/photo_3_2026-10-26_17-10-50.jpg,"[163, 409, 960, 1164]",Front emblem; matching plate on 6
+crops/reviewed_v2_b457e2d53890c75f.jpg,group_a2759cc2d2d7aa76,Voyah,black,voyah_black_777,cars_photos/photo_6_2026-10-26_17-10-50.jpg,"[220, 294, 787, 819]",Rear VOYAH lettering and plate matching 3
+crops/reviewed_v2_9d0ce038041b3ef5.jpg,group_f8b8fa48dff43684,Chevrolet,white,chevrolet_white_047,cars_photos/photo_9_2026-10-26_17-10-50.jpg,"[691, 576, 960, 921]",Gold bowtie on right foreground sedan; partial rear outside frame
+crops/reviewed_v2_945c5750a0bf21da.jpg,group_d21f667f609775ca,Haval,grey,haval_silver_777,cars_photos/photo_10_2026-10-26_17-10-50.jpg,"[220, 473, 585, 896]",Rear HAVAL lettering
+crops/reviewed_v2_50d211dc6e318d9b.jpg,group_d21f667f609775ca,Haval,grey,haval_silver_777,cars_photos/photo_11_2026-10-26_17-10-50.jpg,"[326, 448, 873, 1011]",Same SUV and parking position as 10
+crops/reviewed_v2_4782ae9c4aca4aac.jpg,group_b239a451d79de391,Chevrolet,black,chevrolet_trailblazer_black,cars_photos/photo_12_2026-10-26_17-10-50.jpg,"[0, 358, 960, 1113]",TRAILBLAZER side badge; same car as 16
+crops/reviewed_v2_9cf527ef65b270fe.jpg,group_109c665d10a6d294,Deepal,black,deepal_black_261,cars_photos/photo_14_2026-10-26_17-10-50.jpg,"[86, 396, 844, 1036]",Rear Deepal emblem and S07 badge
+crops/reviewed_v2_2dc20393ee3a5661.jpg,group_9ce8c924c4552a48,Chevrolet,white,chevrolet_white_spark_parking,cars_photos/photo_15_2026-10-26_17-10-50.jpg,"[57, 499, 412, 691]",Chevrolet bowtie on white hatchback at left
+crops/reviewed_v2_5037515c59e6257c.jpg,group_b239a451d79de391,Chevrolet,black,chevrolet_trailblazer_black,cars_photos/photo_16_2026-10-26_17-10-50.jpg,"[0, 51, 960, 1075]",Large rear Chevrolet bowtie and Trailblazer lettering
+crops/reviewed_v2_c223e953c0a2a126.jpg,group_ff88998be95360f3,Li Auto,grey,li_auto_grey_611,cars_photos/photo_18_2026-10-26_17-10-50.jpg,"[297, 409, 960, 947]",Li hood emblem; grey body
+crops/reviewed_v2_02404e9d16d82263.jpg,group_4fa0208d8d5d3685,BMW,black,bmw_black_065,cars_photos/photo_19_2026-10-26_17-10-50.jpg,"[96, 460, 758, 1011]",BMW roundel and grille
+crops/reviewed_v2_1f169ecde74256b3.jpg,group_c763a91ff83d8d2e,BYD,black,byd_black_265,cars_photos/photo_20_2026-10-26_17-10-50.jpg,"[0, 294, 960, 1075]",Front emblem; plate links 59 and 61
+crops/reviewed_v2_2b929e756d056e13.jpg,group_0a8dd42e3d3d097e,Chevrolet,white,chevrolet_white_267,cars_photos/photo_22_2026-10-26_17-10-50.jpg,"[278, 64, 787, 576]",Rear Chevrolet bowtie
+crops/reviewed_v2_a2c1107ced11af68.jpg,group_5ca06f731014e2e0,Chevrolet,grey,chevrolet_grey_058,cars_photos/photo_24_2026-10-26_17-10-50.jpg,"[384, 614, 662, 947]",Rear Chevrolet bowtie; same visible car at left of 61
+crops/reviewed_v2_467e324df10ad0a4.jpg,group_c30b65644f7f4fee,Chevrolet,black,chevrolet_black_090,cars_photos/photo_25_2026-10-26_17-10-50.jpg,"[211, 422, 777, 1036]",Rear Chevrolet bowtie
+crops/reviewed_v2_0ab2a4552798b539.jpg,group_af8df7d185d24459,Chevrolet,black,chevrolet_black_519,cars_photos/photo_26_2026-10-26_17-10-50.jpg,"[220, 448, 470, 793]",Front Chevrolet bowtie on left parked car
+crops/reviewed_v2_81ed9fc1227bc2bd.jpg,group_84f9064a33f90b60,Kia,white,kia_white_080,cars_photos/photo_27_2026-10-26_17-10-50.jpg,"[0, 448, 518, 870]",Oval KIA badge on white sedan
+crops/reviewed_v2_496696b6a34c1342.jpg,group_84f9064a33f90b60,Kia,grey,kia_grey_484,cars_photos/photo_27_2026-10-26_17-10-50.jpg,"[307, 422, 844, 742]",New KIA wordmark on grey SUV
+crops/reviewed_v2_f12bbb8341faeb6e.jpg,group_c3879fbdfc2eca8b,Leapmotor,white,leapmotor_white_015,cars_photos/photo_28_2026-10-26_17-10-50.jpg,"[192, 192, 940, 691]",Clear Leapmotor hood emblem
+crops/reviewed_v2_ebed85cce5ff91c5.jpg,group_fbc2a5e381f21178,Deepal,white,deepal_white_199,cars_photos/photo_29_2026-10-26_17-10-50.jpg,"[57, 550, 960, 1075]",Distinct Deepal emblem matching S07 reference; rear partly occluded by foliage
+crops/reviewed_v2_ec7509c4b31b9a6b.jpg,group_3fcb31e3058190d5,Kia,black,kia_black_867,cars_photos/photo_30_2026-10-26_17-10-50.jpg,"[278, 473, 940, 1062]",New KIA wordmark
+crops/reviewed_v2_47ca93ff8cd031d2.jpg,group_84f9064a33f90b60,Kia,white,kia_white_080,cars_photos/photo_32_2026-10-26_17-10-50.jpg,"[240, 358, 700, 691]",Same plate and sedan as 27
+crops/reviewed_v2_d4f309bb8d248efe.jpg,group_84f9064a33f90b60,Kia,grey,kia_grey_484,cars_photos/photo_32_2026-10-26_17-10-50.jpg,"[528, 345, 960, 652]",Same KIA SUV and parking bay as 27; rear outside right frame
+crops/reviewed_v2_938b3e0c63f0ceaa.jpg,group_d86de9973e6c54fa,BMW,grey,bmw_grey_460,cars_photos/photo_35_2026-10-26_17-10-50.jpg,"[124, 371, 931, 972]",BMW hood roundel
+crops/reviewed_v2_ebe31dbe43e53692.jpg,group_f3bb35abc0ed0ff8,BYD,grey,byd_grey_757,cars_photos/photo_37_2026-10-26_17-10-50.jpg,"[96, 281, 960, 1024]",Front BYD lettering
+crops/reviewed_v2_b17ef773d95d4b88.jpg,group_678ed99ec032f57a,Chevrolet,grey,chevrolet_grey_348,cars_photos/photo_39_2026-10-26_17-10-50.jpg,"[374, 384, 816, 704]",Front Chevrolet bowtie; full vehicle box replaces truncated old crop
+crops/reviewed_v2_a26f4622f388833b.jpg,group_40f5c79dfae67d46,Chevrolet,white,chevrolet_white_tracker,cars_photos/photo_40_2026-10-26_17-10-50.jpg,"[163, 332, 960, 1126]",Rear Chevrolet bowtie
+crops/reviewed_v2_8e83481d757c6a10.jpg,group_5bf1b8f2d8a08738,Chevrolet,white,chevrolet_white_867,cars_photos/photo_42_2026-10-26_17-10-50.jpg,"[0, 601, 537, 1075]",Rear Chevrolet bowtie
+crops/reviewed_v2_5a09894aa2d46ecf.jpg,group_445ced30cdf534bf,BYD,black,byd_black_005,cars_photos/photo_43_2026-10-26_17-10-50.jpg,"[403, 307, 960, 819]",Rear BYD wordmark
+crops/reviewed_v2_301b051080ac3f94.jpg,group_c0e0d47c0ee351c6,Aion,white,aion_white_717,cars_photos/photo_44_2026-10-26_17-10-50.jpg,"[96, 217, 902, 998]",GAC emblem; AION lettering in matching rear view 72
+crops/reviewed_v2_d4eb1d2c8d504db9.jpg,group_bde37b5927bb80d1,BYD,black,byd_black_478,cars_photos/photo_48_2026-10-26_17-10-50.jpg,"[345, 384, 854, 998]",BYD front emblem
+crops/reviewed_v2_226d6704dbbed6e2.jpg,group_d0fbc8ef2c372369,Toyota,black,toyota_black_351,cars_photos/photo_51_2026-10-26_17-10-50.jpg,"[192, 486, 806, 832]",Toyota oval emblem
+crops/reviewed_v2_c6675c7bda473500.jpg,group_65caf95b5d1ab7fa,BMW,grey,bmw_grey_yellow_plate,cars_photos/photo_52_2026-10-26_17-10-50.jpg,"[220, 512, 672, 793]",BMW hood roundel; same grey BMW in right edge of 49
+crops/reviewed_v2_df8edcc7320a1ccb.jpg,group_29752ca9ea1ad7ff,Skoda,brown,skoda_brown_07026,cars_photos/photo_54_2026-10-26_17-10-50.jpg,"[297, 460, 787, 1036]",Rear SKODA lettering; clearly bronze brown body
+crops/reviewed_v2_326fdc0939adb06b.jpg,group_866a5e648111769a,BYD,grey,byd_grey_492,cars_photos/photo_55_2026-10-26_17-10-50.jpg,"[307, 550, 960, 960]",BYD hood wordmark
+crops/reviewed_v2_9462f3a30cc092a1.jpg,group_97e8ff7d1197929a,Chery,brown,chery_beige_taxi,cars_photos/photo_56_2026-10-26_17-10-50.jpg,"[19, 716, 1555, 2201]",Chery rear emblem; beige body maps to brown not white
+crops/reviewed_v2_fd0d65eaf17e6817.jpg,group_494a73c5cefd0422,Zeekr,grey,zeekr_grey_956,cars_photos/photo_57_2026-10-26_17-10-50.jpg,"[230, 844, 1824, 2048]",Same wheels body and location as front view 58
+crops/reviewed_v2_479dcac53cbc5f51.jpg,group_494a73c5cefd0422,Zeekr,grey,zeekr_grey_956,cars_photos/photo_58_2026-10-26_17-10-50.jpg,"[153, 588, 1881, 2176]",Clear rectangular Zeekr hood badge
+crops/reviewed_v2_ce2bb2c8bdced253.jpg,group_c763a91ff83d8d2e,BYD,black,byd_black_265,cars_photos/photo_59_2026-10-26_17-10-50.jpg,"[384, 819, 1689, 2048]",Plate matches 20 and 61
+crops/reviewed_v2_953dcd1ed544c0d0.jpg,group_c763a91ff83d8d2e,BYD,black,byd_black_265,cars_photos/photo_60_2026-10-26_17-10-50.jpg,"[288, 1024, 1920, 2304]",Same sedan wheels location and continuous sequence as 59 and 61
+crops/reviewed_v2_86b182a98984818d.jpg,group_c763a91ff83d8d2e,BYD,black,byd_black_265,cars_photos/photo_61_2026-10-26_17-10-50.jpg,"[230, 588, 1651, 2124]",Same plate and front emblem as 20
+crops/reviewed_v2_abb034daf7f0b907.jpg,group_ac9a68b87c25a0f1,Tesla,white,tesla_white_359,cars_photos/photo_62_2026-10-26_17-10-50.jpg,"[633, 896, 1920, 2099]",Tesla T rear badge; matching plate in 38
+crops/reviewed_v2_855e9dcc27253738.jpg,group_ac9a68b87c25a0f1,Tesla,white,tesla_white_359,cars_photos/photo_65_2026-10-26_17-10-50.jpg,"[480, 972, 1824, 1971]",Same white Tesla in road sequence as 62; grouped conservatively
+crops/reviewed_v2_fedfdc6b0963c851.jpg,group_f3bb35abc0ed0ff8,BYD,grey,byd_grey_757,cars_photos/photo_70_2026-10-26_17-10-50.jpg,"[76, 691, 1728, 2227]",BYD rear lettering; same grey sedan wheel pattern as 37; conservative identity merge
+crops/reviewed_v2_2320166255c9a3cb.jpg,group_c0e0d47c0ee351c6,Aion,white,aion_white_717,cars_photos/photo_72_2026-10-26_17-10-50.jpg,"[57, 512, 1881, 2329]",Rear AION lettering and matching plate
+crops/reviewed_v2_422236ddebf745d8.jpg,group_31fa95313838aea9,BYD,white,byd_white_209,cars_photos/photo_73_2026-10-26_17-10-50.jpg,"[153, 614, 1766, 2355]",Large BYD front lettering
+crops/reviewed_v2_07d6afa5731b3bc6.jpg,group_c0e0d47c0ee351c6,Aion,white,aion_white_717,cars_photos/photo_74_2026-10-26_17-10-50.jpg,"[172, 486, 1804, 2099]",Same plate and front as 44
+crops/reviewed_v2_5c14cef8e4616b60.jpg,group_31fa95313838aea9,BYD,white,byd_white_209,cars_photos/photo_75_2026-10-26_17-10-50.jpg,"[268, 614, 1651, 1817]",Rear BYD lettering and matching plate
+crops/reviewed_v2_4b502ac24547175b.jpg,group_39fb413b1a0bbfa0,Leapmotor,black,leapmotor_black_701,cars_photos/photo_76_2026-10-26_17-10-50.jpg,"[595, 537, 1344, 1203]",Clear Leapmotor hood emblem matching 28
+crops/reviewed_v2_3ba8be0ad3343448.jpg,group_39fb413b1a0bbfa0,Chevrolet,white,chevrolet_white_spark_garage,cars_photos/photo_76_2026-10-26_17-10-50.jpg,"[0, 588, 691, 1075]",Gold bowtie on white hatchback at left

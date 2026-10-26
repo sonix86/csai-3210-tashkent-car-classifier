@@ -1,0 +1,10 @@
+# Install this matched pair from the CUDA 12.8 index first (see README).
+torch==2.9.1
+torchvision==0.24.1
+ultralytics>=8.3,<9
+opencv-python>=4.8,<5
+pillow>=10,<13
+numpy>=1.26,<3
+scikit-learn>=1.4,<2
+requests>=2.32,<3
+matplotlib>=3.9,<4

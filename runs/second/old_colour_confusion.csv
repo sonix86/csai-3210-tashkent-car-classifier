@@ -1,0 +1,9 @@
+﻿true / predicted,white,black,grey,red,blue,green,brown,yellow
+white,2,0,0,0,0,0,0,0
+black,0,3,4,0,0,0,0,0
+grey,0,0,1,0,0,0,0,0
+red,0,0,0,0,0,0,0,0
+blue,0,0,0,0,0,0,0,0
+green,0,0,0,0,0,0,0,0
+brown,0,0,0,0,0,0,0,0
+yellow,0,0,0,0,0,0,0,0

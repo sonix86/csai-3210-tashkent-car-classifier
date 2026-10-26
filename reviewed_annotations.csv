@@ -1,0 +1,53 @@
+photo_number,vehicle_id,brand,colour,left,top,right,bottom,evidence
+1,kia_taxi_black,Kia,black,0,0.34,0.76,0.80,Rear KIA badge; same taxi as 2
+2,kia_taxi_black,Kia,black,0.14,0.35,0.92,0.79,Rear KIA badge and matching taxi markings
+3,voyah_black_777,Voyah,black,0.17,0.32,1,0.91,Front emblem; matching plate on 6
+6,voyah_black_777,Voyah,black,0.23,0.23,0.82,0.64,Rear VOYAH lettering and plate matching 3
+9,chevrolet_white_047,Chevrolet,white,0.72,0.45,1,0.72,Gold bowtie on right foreground sedan; partial rear outside frame
+10,haval_silver_777,Haval,grey,0.23,0.37,0.61,0.70,Rear HAVAL lettering
+11,haval_silver_777,Haval,grey,0.34,0.35,0.91,0.79,Same SUV and parking position as 10
+12,chevrolet_trailblazer_black,Chevrolet,black,0,0.28,1,0.87,TRAILBLAZER side badge; same car as 16
+14,deepal_black_261,Deepal,black,0.09,0.31,0.88,0.81,Rear Deepal emblem and S07 badge
+15,chevrolet_white_spark_parking,Chevrolet,white,0.06,0.39,0.43,0.54,Chevrolet bowtie on white hatchback at left
+16,chevrolet_trailblazer_black,Chevrolet,black,0,0.04,1,0.84,Large rear Chevrolet bowtie and Trailblazer lettering
+18,li_auto_grey_611,Li Auto,grey,0.31,0.32,1,0.74,Li hood emblem; grey body
+19,bmw_black_065,BMW,black,0.10,0.36,0.79,0.79,BMW roundel and grille
+20,byd_black_265,BYD,black,0,0.23,1,0.84,Front emblem; plate links 59 and 61
+22,chevrolet_white_267,Chevrolet,white,0.29,0.05,0.82,0.45,Rear Chevrolet bowtie
+24,chevrolet_grey_058,Chevrolet,grey,0.40,0.48,0.69,0.74,Rear Chevrolet bowtie; same visible car at left of 61
+25,chevrolet_black_090,Chevrolet,black,0.22,0.33,0.81,0.81,Rear Chevrolet bowtie
+26,chevrolet_black_519,Chevrolet,black,0.23,0.35,0.49,0.62,Front Chevrolet bowtie on left parked car
+27,kia_white_080,Kia,white,0,0.35,0.54,0.68,Oval KIA badge on white sedan
+27,kia_grey_484,Kia,grey,0.32,0.33,0.88,0.58,New KIA wordmark on grey SUV
+28,leapmotor_white_015,Leapmotor,white,0.2,0.15,0.98,0.54,Clear Leapmotor hood emblem
+29,deepal_white_199,Deepal,white,0.06,0.43,1,0.84,Distinct Deepal emblem matching S07 reference; rear partly occluded by foliage
+30,kia_black_867,Kia,black,0.29,0.37,0.98,0.83,New KIA wordmark
+32,kia_white_080,Kia,white,0.25,0.28,0.73,0.54,Same plate and sedan as 27
+32,kia_grey_484,Kia,grey,0.55,0.27,1,0.51,Same KIA SUV and parking bay as 27; rear outside right frame
+35,bmw_grey_460,BMW,grey,0.13,0.29,0.97,0.76,BMW hood roundel
+37,byd_grey_757,BYD,grey,0.10,0.22,1,0.80,Front BYD lettering
+39,chevrolet_grey_348,Chevrolet,grey,0.39,0.3,0.85,0.55,Front Chevrolet bowtie; full vehicle box replaces truncated old crop
+40,chevrolet_white_tracker,Chevrolet,white,0.17,0.26,1,0.88,Rear Chevrolet bowtie
+42,chevrolet_white_867,Chevrolet,white,0,0.47,0.56,0.84,Rear Chevrolet bowtie
+43,byd_black_005,BYD,black,0.42,0.24,1,0.64,Rear BYD wordmark
+44,aion_white_717,Aion,white,0.10,0.17,0.94,0.78,GAC emblem; AION lettering in matching rear view 72
+48,byd_black_478,BYD,black,0.36,0.30,0.89,0.78,BYD front emblem
+51,toyota_black_351,Toyota,black,0.2,0.38,0.84,0.65,Toyota oval emblem
+52,bmw_grey_yellow_plate,BMW,grey,0.23,0.4,0.7,0.62,BMW hood roundel; same grey BMW in right edge of 49
+54,skoda_brown_07026,Skoda,brown,0.31,0.36,0.82,0.81,Rear SKODA lettering; clearly bronze brown body
+55,byd_grey_492,BYD,grey,0.32,0.43,1,0.75,BYD hood wordmark
+56,chery_beige_taxi,Chery,brown,0.01,0.28,0.81,0.86,Chery rear emblem; beige body maps to brown not white
+57,zeekr_grey_956,Zeekr,grey,0.12,0.33,0.95,0.80,Same wheels body and location as front view 58
+58,zeekr_grey_956,Zeekr,grey,0.08,0.23,0.98,0.85,Clear rectangular Zeekr hood badge
+59,byd_black_265,BYD,black,0.20,0.32,0.88,0.80,Plate matches 20 and 61
+60,byd_black_265,BYD,black,0.15,0.40,1,0.90,Same sedan wheels location and continuous sequence as 59 and 61
+61,byd_black_265,BYD,black,0.12,0.23,0.86,0.83,Same plate and front emblem as 20
+62,tesla_white_359,Tesla,white,0.33,0.35,1,0.82,Tesla T rear badge; matching plate in 38
+65,tesla_white_359,Tesla,white,0.25,0.38,0.95,0.77,Same white Tesla in road sequence as 62; grouped conservatively
+70,byd_grey_757,BYD,grey,0.04,0.27,0.90,0.87,BYD rear lettering; same grey sedan wheel pattern as 37; conservative identity merge
+72,aion_white_717,Aion,white,0.03,0.20,0.98,0.91,Rear AION lettering and matching plate
+73,byd_white_209,BYD,white,0.08,0.24,0.92,0.92,Large BYD front lettering
+74,aion_white_717,Aion,white,0.09,0.19,0.94,0.82,Same plate and front as 44
+75,byd_white_209,BYD,white,0.14,0.24,0.86,0.71,Rear BYD lettering and matching plate
+76,leapmotor_black_701,Leapmotor,black,0.31,0.21,0.7,0.47,Clear Leapmotor hood emblem matching 28
+76,chevrolet_white_spark_garage,Chevrolet,white,0,0.23,0.36,0.42,Gold bowtie on white hatchback at left

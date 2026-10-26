@@ -1,0 +1,377 @@
+[
+  {
+    "id": "commons_143955760",
+    "reason": "Hyptec/Hyper subbrand taxonomy differs from Aion training label",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_143955761",
+    "reason": "Hyptec/Hyper subbrand taxonomy differs from Aion training label",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_143955762",
+    "reason": "Hyptec/Hyper subbrand taxonomy differs from Aion training label",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_175848390",
+    "reason": "Hyptec subbrand; not merged into Aion",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_117495239",
+    "reason": "Near-identical view to 3",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_117495249",
+    "reason": "Near-identical view to 7",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_117495253",
+    "reason": "Only badge and rear lamp fragment; poor vehicle crop",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_167700854",
+    "reason": "Near-identical garage sequence; retain representative views 17 and 19",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_167700861",
+    "reason": "Near-identical garage sequence",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_167700862",
+    "reason": "Near-identical garage sequence",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_167700863",
+    "reason": "Near-identical garage sequence",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_167700866",
+    "reason": "Near-identical garage sequence",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_167700867",
+    "reason": "Near-identical garage sequence",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_167700871",
+    "reason": "Near-identical garage sequence",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_167700873",
+    "reason": "Near-identical garage sequence",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_167700874",
+    "reason": "Near-identical garage sequence",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_167700879",
+    "reason": "Near-identical garage sequence",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_167700880",
+    "reason": "Near-identical garage sequence",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_73765902",
+    "reason": "Concept car excluded from road-vehicle training",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_9433401",
+    "reason": "Severely truncated front and rear; poor training crop",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_150162339",
+    "reason": "Near duplicate of 21",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_161516943",
+    "reason": "Detector selected foreground Nissan instead of labelled Changan",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_174836435",
+    "reason": "Deepal marque, not Changan badge",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_174837915",
+    "reason": "Deepal marque, not Changan badge",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_176489900",
+    "reason": "Near duplicate of 5",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_178779292",
+    "reason": "Distinct Oshan marque",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_182105194",
+    "reason": "Nevo badge taxonomy excluded conservatively",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_182780155",
+    "reason": "Nevo badge taxonomy excluded conservatively",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_182780156",
+    "reason": "Nevo badge taxonomy excluded conservatively",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_184516719",
+    "reason": "Near duplicate of 13",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_193671046",
+    "reason": "Nevo badge taxonomy excluded conservatively",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_193776202",
+    "reason": "Nevo badge taxonomy excluded conservatively",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_193776204",
+    "reason": "Nevo badge taxonomy excluded conservatively",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_201562093",
+    "reason": "Mazda EZ-6; manufacturer is not marque",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_113136516",
+    "reason": "Omoda taxonomy not merged into Chery",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_170840307",
+    "reason": "Near-identical angle to 3",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_198830048",
+    "reason": "Near-identical angle to 10",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_200673264",
+    "reason": "Near-identical angle to 27",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_114855759",
+    "reason": "Near-identical front view to 6",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_172308739",
+    "reason": "Near-identical angle to 14",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_175659712",
+    "reason": "Only cropped bonnet/headlamp; not a useful whole car",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_180740065",
+    "reason": "Chery QQ / Chevrolet caption ambiguous and crop matches Chery QQ",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_198181965",
+    "reason": "New Spark EUV rebadge taxonomy excluded",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_135583728",
+    "reason": "Near duplicate of 65",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_135583751",
+    "reason": "Near duplicate of 65",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_141670750",
+    "reason": "Near duplicate of 70",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_164229402",
+    "reason": "BelGee rebadge is distinct marque",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_174141185",
+    "reason": "Near duplicate of 7",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_176568049",
+    "reason": "Near duplicate of 10",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_185438025",
+    "reason": "Near duplicate of 19",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_198838055",
+    "reason": "Interior only",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_145377973",
+    "reason": "Person and stall occlude much of target car",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_149599494",
+    "reason": "Repeated rear sequence; representative 5 retained",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_149599495",
+    "reason": "Near-identical to rear views 5 and 6",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_149599501",
+    "reason": "Interior incorrectly proposed by general detector",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_146491035",
+    "reason": "Wrong foreground car fragment selected",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_200201199",
+    "reason": "Incomplete bonnet crop",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_154856835",
+    "reason": "Heavy motion blur",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_189293604",
+    "reason": "Only foreground bonnet fragment; incorrect dominant car crop",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_150098564",
+    "reason": "Large display board obscures side view",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_169940250",
+    "reason": "Near-identical view to 20",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_199650874",
+    "reason": "Interior, not an exterior car crop",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_79425556",
+    "reason": "Police livery has no single trustworthy colour",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_197081890",
+    "reason": "Heavily damaged vehicle",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_95265324",
+    "reason": "Police livery has no single trustworthy colour",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_105170370",
+    "reason": "Duplicate image framing of 1",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_121862578",
+    "reason": "Rear lamp close-up only",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_128978454",
+    "reason": "Truncated bonnet close-up; not full car",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_190224231",
+    "reason": "Bonnet and grille close-up only",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_190772280",
+    "reason": "Incomplete grille crop",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_190772288",
+    "reason": "Incomplete bonnet crop",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_196341275",
+    "reason": "Near duplicate of 16",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_196341279",
+    "reason": "Near duplicate of 18",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_175242468",
+    "reason": "Near duplicate of 19",
+    "stage": "visual_review"
+  },
+  {
+    "id": "commons_175242474",
+    "reason": "Near duplicate of 24",
+    "stage": "visual_review"
+  }
+]

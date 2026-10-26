@@ -1,0 +1,58 @@
+{
+  "public_candidates": 577,
+  "public_accepted": 502,
+  "public_colour_labelled": 462,
+  "public_excluded": 75,
+  "public_duplicates_removed": 0,
+  "role_counts": {
+    "train": 485,
+    "benchmark": 10,
+    "development": 59
+  },
+  "source_counts": {
+    "Wikimedia Commons": 502
+  },
+  "brands": {
+    "Aion": 30,
+    "BMW": 36,
+    "BYD": 40,
+    "Changan": 17,
+    "Chery": 28,
+    "Chevrolet": 38,
+    "Deepal": 16,
+    "Geely": 34,
+    "Haval": 12,
+    "Jetour": 21,
+    "Kia": 44,
+    "Leapmotor": 28,
+    "Li Auto": 31,
+    "Skoda": 12,
+    "Tesla": 17,
+    "Toyota": 38,
+    "Voyah": 28,
+    "Zeekr": 32
+  },
+  "licences": {
+    "CC0": 355,
+    "CC BY-SA 4.0": 123,
+    "CC BY 4.0": 12,
+    "CC BY 2.0": 4,
+    "CC BY-SA 3.0": 4,
+    "CC BY-SA 2.0": 4
+  },
+  "original_holdout_crops": [
+    "crops/reviewed_v2_1f169ecde74256b3.jpg",
+    "crops/reviewed_v2_ebed85cce5ff91c5.jpg",
+    "crops/reviewed_v2_ec7509c4b31b9a6b.jpg",
+    "crops/reviewed_v2_d4eb1d2c8d504db9.jpg",
+    "crops/reviewed_v2_c6675c7bda473500.jpg",
+    "crops/reviewed_v2_ce2bb2c8bdced253.jpg",
+    "crops/reviewed_v2_953dcd1ed544c0d0.jpg",
+    "crops/reviewed_v2_86b182a98984818d.jpg",
+    "crops/reviewed_v2_4b502ac24547175b.jpg",
+    "crops/reviewed_v2_3ba8be0ad3343448.jpg"
+  ],
+  "baseline_sha256": "4dd17d10e9b1a6d92b5e2bc7a11b1c8027abf2d1278d643c755a14c3966e74e8",
+  "manifest_sha256": "65ff57446ebc7f8b91bfee6f15dbf9e1b4bbce92c1d38f8ce67ddb334d693276",
+  "identity_limitation": "Commons has no globally reliable physical-vehicle IDs. Public dev uses conservative author+brand groups. Tashkent vehicle IDs remain frozen; all public images visually reviewed for foreign context and local SHA/pHash/dHash matches excluded."
+}

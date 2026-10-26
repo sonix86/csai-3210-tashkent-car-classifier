@@ -1,0 +1,41 @@
+{
+  "cars": [
+    {
+      "index": 1,
+      "box": [
+        603,
+        539,
+        1317,
+        1147
+      ],
+      "detection_confidence": 0.8091761469841003,
+      "brand": "unknown",
+      "brand_top1": "Aion",
+      "colour": "white",
+      "brand_confidence": 0.2390124350786209,
+      "colour_confidence": 0.4322364032268524
+    },
+    {
+      "index": 2,
+      "box": [
+        0,
+        589,
+        703,
+        1049
+      ],
+      "detection_confidence": 0.9036722779273987,
+      "brand": "Kia",
+      "brand_top1": "Kia",
+      "colour": "white",
+      "brand_confidence": 0.5929529666900635,
+      "colour_confidence": 0.66559237241745
+    }
+  ],
+  "device": "cuda",
+  "detector_seconds": 0.3297339999999167,
+  "classifier_and_preprocessing_seconds": 0.049514799999997194,
+  "inference_seconds": 0.3792487999999139,
+  "brand_threshold": 0.4,
+  "image": "cars_photos/photo_76_2026-10-26_17-10-50.jpg",
+  "handler_wall_seconds_including_load_read_save": 1.6540360999997574
+}

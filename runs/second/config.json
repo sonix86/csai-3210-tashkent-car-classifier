@@ -1,0 +1,21 @@
+{
+  "epochs": 40,
+  "batch": 16,
+  "seed": 3210,
+  "body_lr": 1e-05,
+  "head_lr": 0.0003,
+  "freeze_body_epochs": 8,
+  "freeze_batchnorm": true,
+  "batchnorm_recalibration": "training images only, before optimization",
+  "label_smoothing": 0.1,
+  "weight_decay": 0.03,
+  "colour_missing": "masked, never pseudo-labelled",
+  "sampling": "inverse brand frequency, local domain multiplier 3, inverse sqrt group size",
+  "selection": "0.7 public dev brand balanced accuracy + 0.3 public dev colour balanced accuracy; loss tie break",
+  "benchmark_used_for_selection": false,
+  "warm_start": "own runs/first/best.pt; expanded brand head by name",
+  "pretrained_brand_classifier": false,
+  "gpu": "NVIDIA GeForce RTX 4070 SUPER",
+  "torch": "2.9.1+cu128",
+  "manifest_sha256": "65ff57446ebc7f8b91bfee6f15dbf9e1b4bbce92c1d38f8ce67ddb334d693276"
+}

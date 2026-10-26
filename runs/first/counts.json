@@ -1,0 +1,44 @@
+{
+  "train": {
+    "brands": {
+      "Kia": 6,
+      "Voyah": 2,
+      "Chevrolet": 11,
+      "Haval": 2,
+      "Deepal": 1,
+      "Li Auto": 1,
+      "BMW": 2,
+      "Leapmotor": 1,
+      "BYD": 6,
+      "Aion": 3,
+      "Toyota": 1,
+      "Skoda": 1,
+      "Chery": 1,
+      "Zeekr": 2,
+      "Tesla": 2
+    },
+    "colours": {
+      "black": 12,
+      "white": 15,
+      "grey": 13,
+      "brown": 2
+    },
+    "vehicle_groups": 30
+  },
+  "validation": {
+    "brands": {
+      "BYD": 5,
+      "Deepal": 1,
+      "Kia": 1,
+      "BMW": 1,
+      "Leapmotor": 1,
+      "Chevrolet": 1
+    },
+    "colours": {
+      "black": 7,
+      "white": 2,
+      "grey": 1
+    },
+    "vehicle_groups": 7
+  }
+}

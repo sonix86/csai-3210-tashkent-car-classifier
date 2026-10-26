@@ -1,0 +1,513 @@
+{
+  "models": {
+    "old": {
+      "brand": {
+        "correct": 1,
+        "total": 10,
+        "accuracy": 0.1,
+        "macro_f1_observed_classes": 0.16666666666666666,
+        "balanced_accuracy_observed_classes": 0.16666666666666666,
+        "unvalidated_classes": [
+          "Aion",
+          "Changan",
+          "Chery",
+          "Geely",
+          "Haval",
+          "Jetour",
+          "Li Auto",
+          "Skoda",
+          "Tesla",
+          "Toyota",
+          "Voyah",
+          "Zeekr"
+        ],
+        "per_class": {
+          "Aion": {
+            "support": 0,
+            "predicted": 1,
+            "correct": 0,
+            "recall": null,
+            "precision": 0.0,
+            "f1": null
+          },
+          "BMW": {
+            "support": 1,
+            "predicted": 1,
+            "correct": 1,
+            "recall": 1.0,
+            "precision": 1.0,
+            "f1": 1.0
+          },
+          "BYD": {
+            "support": 5,
+            "predicted": 0,
+            "correct": 0,
+            "recall": 0.0,
+            "precision": null,
+            "f1": 0.0
+          },
+          "Changan": {
+            "support": 0,
+            "predicted": 0,
+            "correct": 0,
+            "recall": null,
+            "precision": null,
+            "f1": null
+          },
+          "Chery": {
+            "support": 0,
+            "predicted": 0,
+            "correct": 0,
+            "recall": null,
+            "precision": null,
+            "f1": null
+          },
+          "Chevrolet": {
+            "support": 1,
+            "predicted": 6,
+            "correct": 0,
+            "recall": 0.0,
+            "precision": 0.0,
+            "f1": 0.0
+          },
+          "Deepal": {
+            "support": 1,
+            "predicted": 0,
+            "correct": 0,
+            "recall": 0.0,
+            "precision": null,
+            "f1": 0.0
+          },
+          "Geely": {
+            "support": 0,
+            "predicted": 0,
+            "correct": 0,
+            "recall": null,
+            "precision": null,
+            "f1": null
+          },
+          "Haval": {
+            "support": 0,
+            "predicted": 0,
+            "correct": 0,
+            "recall": null,
+            "precision": null,
+            "f1": null
+          },
+          "Jetour": {
+            "support": 0,
+            "predicted": 0,
+            "correct": 0,
+            "recall": null,
+            "precision": null,
+            "f1": null
+          },
+          "Kia": {
+            "support": 1,
+            "predicted": 1,
+            "correct": 0,
+            "recall": 0.0,
+            "precision": 0.0,
+            "f1": 0.0
+          },
+          "Leapmotor": {
+            "support": 1,
+            "predicted": 0,
+            "correct": 0,
+            "recall": 0.0,
+            "precision": null,
+            "f1": 0.0
+          },
+          "Li Auto": {
+            "support": 0,
+            "predicted": 0,
+            "correct": 0,
+            "recall": null,
+            "precision": null,
+            "f1": null
+          },
+          "Skoda": {
+            "support": 0,
+            "predicted": 0,
+            "correct": 0,
+            "recall": null,
+            "precision": null,
+            "f1": null
+          },
+          "Tesla": {
+            "support": 0,
+            "predicted": 0,
+            "correct": 0,
+            "recall": null,
+            "precision": null,
+            "f1": null
+          },
+          "Toyota": {
+            "support": 0,
+            "predicted": 0,
+            "correct": 0,
+            "recall": null,
+            "precision": null,
+            "f1": null
+          },
+          "Voyah": {
+            "support": 0,
+            "predicted": 1,
+            "correct": 0,
+            "recall": null,
+            "precision": 0.0,
+            "f1": null
+          },
+          "Zeekr": {
+            "support": 0,
+            "predicted": 0,
+            "correct": 0,
+            "recall": null,
+            "precision": null,
+            "f1": null
+          }
+        }
+      },
+      "colour": {
+        "correct": 6,
+        "total": 10,
+        "accuracy": 0.6,
+        "macro_f1_observed_classes": 0.6444444444444445,
+        "balanced_accuracy_observed_classes": 0.8095238095238096,
+        "unvalidated_classes": [
+          "red",
+          "blue",
+          "green",
+          "brown",
+          "yellow"
+        ],
+        "per_class": {
+          "white": {
+            "support": 2,
+            "predicted": 2,
+            "correct": 2,
+            "recall": 1.0,
+            "precision": 1.0,
+            "f1": 1.0
+          },
+          "black": {
+            "support": 7,
+            "predicted": 3,
+            "correct": 3,
+            "recall": 0.42857142857142855,
+            "precision": 1.0,
+            "f1": 0.6
+          },
+          "grey": {
+            "support": 1,
+            "predicted": 5,
+            "correct": 1,
+            "recall": 1.0,
+            "precision": 0.2,
+            "f1": 0.3333333333333333
+          },
+          "red": {
+            "support": 0,
+            "predicted": 0,
+            "correct": 0,
+            "recall": null,
+            "precision": null,
+            "f1": null
+          },
+          "blue": {
+            "support": 0,
+            "predicted": 0,
+            "correct": 0,
+            "recall": null,
+            "precision": null,
+            "f1": null
+          },
+          "green": {
+            "support": 0,
+            "predicted": 0,
+            "correct": 0,
+            "recall": null,
+            "precision": null,
+            "f1": null
+          },
+          "brown": {
+            "support": 0,
+            "predicted": 0,
+            "correct": 0,
+            "recall": null,
+            "precision": null,
+            "f1": null
+          },
+          "yellow": {
+            "support": 0,
+            "predicted": 0,
+            "correct": 0,
+            "recall": null,
+            "precision": null,
+            "f1": null
+          }
+        }
+      },
+      "joint_accuracy": 0.1,
+      "vehicle_brand_accuracy": 0.14285714285714285,
+      "vehicle_colour_accuracy": 0.5714285714285714,
+      "vehicles": 7
+    },
+    "new": {
+      "brand": {
+        "correct": 1,
+        "total": 10,
+        "accuracy": 0.1,
+        "macro_f1_observed_classes": 0.047619047619047616,
+        "balanced_accuracy_observed_classes": 0.03333333333333333,
+        "unvalidated_classes": [
+          "Aion",
+          "Changan",
+          "Chery",
+          "Geely",
+          "Haval",
+          "Jetour",
+          "Li Auto",
+          "Skoda",
+          "Tesla",
+          "Toyota",
+          "Voyah",
+          "Zeekr"
+        ],
+        "per_class": {
+          "Aion": {
+            "support": 0,
+            "predicted": 0,
+            "correct": 0,
+            "recall": null,
+            "precision": null,
+            "f1": null
+          },
+          "BMW": {
+            "support": 1,
+            "predicted": 1,
+            "correct": 0,
+            "recall": 0.0,
+            "precision": 0.0,
+            "f1": 0.0
+          },
+          "BYD": {
+            "support": 5,
+            "predicted": 2,
+            "correct": 1,
+            "recall": 0.2,
+            "precision": 0.5,
+            "f1": 0.2857142857142857
+          },
+          "Changan": {
+            "support": 0,
+            "predicted": 0,
+            "correct": 0,
+            "recall": null,
+            "precision": null,
+            "f1": null
+          },
+          "Chery": {
+            "support": 0,
+            "predicted": 0,
+            "correct": 0,
+            "recall": null,
+            "precision": null,
+            "f1": null
+          },
+          "Chevrolet": {
+            "support": 1,
+            "predicted": 0,
+            "correct": 0,
+            "recall": 0.0,
+            "precision": null,
+            "f1": 0.0
+          },
+          "Deepal": {
+            "support": 1,
+            "predicted": 0,
+            "correct": 0,
+            "recall": 0.0,
+            "precision": null,
+            "f1": 0.0
+          },
+          "Geely": {
+            "support": 0,
+            "predicted": 0,
+            "correct": 0,
+            "recall": null,
+            "precision": null,
+            "f1": null
+          },
+          "Haval": {
+            "support": 0,
+            "predicted": 0,
+            "correct": 0,
+            "recall": null,
+            "precision": null,
+            "f1": null
+          },
+          "Jetour": {
+            "support": 0,
+            "predicted": 0,
+            "correct": 0,
+            "recall": null,
+            "precision": null,
+            "f1": null
+          },
+          "Kia": {
+            "support": 1,
+            "predicted": 3,
+            "correct": 0,
+            "recall": 0.0,
+            "precision": 0.0,
+            "f1": 0.0
+          },
+          "Leapmotor": {
+            "support": 1,
+            "predicted": 0,
+            "correct": 0,
+            "recall": 0.0,
+            "precision": null,
+            "f1": 0.0
+          },
+          "Li Auto": {
+            "support": 0,
+            "predicted": 1,
+            "correct": 0,
+            "recall": null,
+            "precision": 0.0,
+            "f1": null
+          },
+          "Skoda": {
+            "support": 0,
+            "predicted": 0,
+            "correct": 0,
+            "recall": null,
+            "precision": null,
+            "f1": null
+          },
+          "Tesla": {
+            "support": 0,
+            "predicted": 0,
+            "correct": 0,
+            "recall": null,
+            "precision": null,
+            "f1": null
+          },
+          "Toyota": {
+            "support": 0,
+            "predicted": 0,
+            "correct": 0,
+            "recall": null,
+            "precision": null,
+            "f1": null
+          },
+          "Voyah": {
+            "support": 0,
+            "predicted": 2,
+            "correct": 0,
+            "recall": null,
+            "precision": 0.0,
+            "f1": null
+          },
+          "Zeekr": {
+            "support": 0,
+            "predicted": 1,
+            "correct": 0,
+            "recall": null,
+            "precision": 0.0,
+            "f1": null
+          }
+        }
+      },
+      "colour": {
+        "correct": 7,
+        "total": 10,
+        "accuracy": 0.7,
+        "macro_f1_observed_classes": 0.7090909090909091,
+        "balanced_accuracy_observed_classes": 0.8571428571428571,
+        "unvalidated_classes": [
+          "red",
+          "blue",
+          "green",
+          "brown",
+          "yellow"
+        ],
+        "per_class": {
+          "white": {
+            "support": 2,
+            "predicted": 2,
+            "correct": 2,
+            "recall": 1.0,
+            "precision": 1.0,
+            "f1": 1.0
+          },
+          "black": {
+            "support": 7,
+            "predicted": 4,
+            "correct": 4,
+            "recall": 0.5714285714285714,
+            "precision": 1.0,
+            "f1": 0.7272727272727273
+          },
+          "grey": {
+            "support": 1,
+            "predicted": 4,
+            "correct": 1,
+            "recall": 1.0,
+            "precision": 0.25,
+            "f1": 0.4
+          },
+          "red": {
+            "support": 0,
+            "predicted": 0,
+            "correct": 0,
+            "recall": null,
+            "precision": null,
+            "f1": null
+          },
+          "blue": {
+            "support": 0,
+            "predicted": 0,
+            "correct": 0,
+            "recall": null,
+            "precision": null,
+            "f1": null
+          },
+          "green": {
+            "support": 0,
+            "predicted": 0,
+            "correct": 0,
+            "recall": null,
+            "precision": null,
+            "f1": null
+          },
+          "brown": {
+            "support": 0,
+            "predicted": 0,
+            "correct": 0,
+            "recall": null,
+            "precision": null,
+            "f1": null
+          },
+          "yellow": {
+            "support": 0,
+            "predicted": 0,
+            "correct": 0,
+            "recall": null,
+            "precision": null,
+            "f1": null
+          }
+        }
+      },
+      "joint_accuracy": 0.0,
+      "vehicle_brand_accuracy": 0.14285714285714285,
+      "vehicle_colour_accuracy": 0.5714285714285714,
+      "vehicles": 7
+    }
+  },
+  "originals_unchanged": 76,
+  "holdout_crops": 10,
+  "note": "Same reused validation as first experiment; unseen by gradient training, but used to select first model. Not a fresh blind test. New checkpoint selected only on public development set."
+}

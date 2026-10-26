@@ -1,0 +1,50 @@
+{
+  "files": 146,
+  "bytes": 8712285,
+  "largest": [
+    {
+      "path": "data_external/detection_review.json",
+      "bytes": 1493144
+    },
+    {
+      "path": "data_external/accepted_manifest.json",
+      "bytes": 1228257
+    },
+    {
+      "path": "data_external/review_manifest.json",
+      "bytes": 1219196
+    },
+    {
+      "path": "data_external/candidates.json",
+      "bytes": 1016138
+    },
+    {
+      "path": "data_external/ATTRIBUTIONS.csv",
+      "bytes": 489987
+    },
+    {
+      "path": "data_augmented/manifest.json",
+      "bytes": 343202
+    },
+    {
+      "path": "data_external/CANDIDATE_ATTRIBUTIONS.csv",
+      "bytes": 286680
+    },
+    {
+      "path": "data_external/additional_candidates.json",
+      "bytes": 235530
+    },
+    {
+      "path": "data_external/visual_review.json",
+      "bytes": 166325
+    },
+    {
+      "path": "runs/first/confusion_matrices.png",
+      "bytes": 141608
+    }
+  ],
+  "no_models_or_photos_in_git": true,
+  "historical_metrics_included": true,
+  "github_cli": "Not installed / not on PATH; gh auth status could not execute",
+  "published": false
+}

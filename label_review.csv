@@ -1,0 +1,19 @@
+photo_number,proposed_brand,proposed_colour,confidence,notes
+1,Kia,black,high,Rear badge visible
+3,Voyah,black,high,Front emblem visible
+10,Haval,grey,high,Rear badge text visible
+16,Chevrolet,black,high,Rear gold bowtie badge
+18,Li Auto,grey,high,Li Auto front badging
+20,BYD,black,high,BYD front emblem
+29,Deepal,white,medium,Stylized triangular front logo; confirm badge
+31,Zeekr,white,medium,Wheel emblem and design; confirm badge
+37,BYD,grey,high,BYD front lettering
+39,Chevrolet,grey,high,Front gold bowtie badge
+44,Aion,white,medium,GAC Aion emblem; confirm naming convention
+48,BYD,black,high,BYD front badge
+56,Chery,white,high,Rear badge visible
+58,Zeekr,grey,high,Front Zeekr emblem visible
+61,BYD,black,high,Same car as photo 20; do not split across train and validation
+70,BYD,grey,medium,Rear BYD text partly visible
+73,BYD,white,high,BYD front badge
+76,Leapmotor,black,medium,Front logo; verify brand

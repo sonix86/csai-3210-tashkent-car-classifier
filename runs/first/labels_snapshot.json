@@ -1,0 +1,522 @@
+[
+  {
+    "crop": "crops/reviewed_v2_6f3cb2ca5b1e1c81.jpg",
+    "source": "group_cb84d49354ebeb60",
+    "brand": "Kia",
+    "colour": "black",
+    "vehicle_id": "kia_taxi_black",
+    "photo": "cars_photos/photo_1_2026-10-26_17-10-50.jpg",
+    "bbox": "[0, 435, 729, 1024]",
+    "evidence": "Rear KIA badge; same taxi as 2"
+  },
+  {
+    "crop": "crops/reviewed_v2_a34130a3a68acf67.jpg",
+    "source": "group_cb84d49354ebeb60",
+    "brand": "Kia",
+    "colour": "black",
+    "vehicle_id": "kia_taxi_black",
+    "photo": "cars_photos/photo_2_2026-10-26_17-10-50.jpg",
+    "bbox": "[134, 448, 883, 1011]",
+    "evidence": "Rear KIA badge and matching taxi markings"
+  },
+  {
+    "crop": "crops/reviewed_v2_fd25f492f46af2f9.jpg",
+    "source": "group_a2759cc2d2d7aa76",
+    "brand": "Voyah",
+    "colour": "black",
+    "vehicle_id": "voyah_black_777",
+    "photo": "cars_photos/photo_3_2026-10-26_17-10-50.jpg",
+    "bbox": "[163, 409, 960, 1164]",
+    "evidence": "Front emblem; matching plate on 6"
+  },
+  {
+    "crop": "crops/reviewed_v2_b457e2d53890c75f.jpg",
+    "source": "group_a2759cc2d2d7aa76",
+    "brand": "Voyah",
+    "colour": "black",
+    "vehicle_id": "voyah_black_777",
+    "photo": "cars_photos/photo_6_2026-10-26_17-10-50.jpg",
+    "bbox": "[220, 294, 787, 819]",
+    "evidence": "Rear VOYAH lettering and plate matching 3"
+  },
+  {
+    "crop": "crops/reviewed_v2_9d0ce038041b3ef5.jpg",
+    "source": "group_f8b8fa48dff43684",
+    "brand": "Chevrolet",
+    "colour": "white",
+    "vehicle_id": "chevrolet_white_047",
+    "photo": "cars_photos/photo_9_2026-10-26_17-10-50.jpg",
+    "bbox": "[691, 576, 960, 921]",
+    "evidence": "Gold bowtie on right foreground sedan; partial rear outside frame"
+  },
+  {
+    "crop": "crops/reviewed_v2_945c5750a0bf21da.jpg",
+    "source": "group_d21f667f609775ca",
+    "brand": "Haval",
+    "colour": "grey",
+    "vehicle_id": "haval_silver_777",
+    "photo": "cars_photos/photo_10_2026-10-26_17-10-50.jpg",
+    "bbox": "[220, 473, 585, 896]",
+    "evidence": "Rear HAVAL lettering"
+  },
+  {
+    "crop": "crops/reviewed_v2_50d211dc6e318d9b.jpg",
+    "source": "group_d21f667f609775ca",
+    "brand": "Haval",
+    "colour": "grey",
+    "vehicle_id": "haval_silver_777",
+    "photo": "cars_photos/photo_11_2026-10-26_17-10-50.jpg",
+    "bbox": "[326, 448, 873, 1011]",
+    "evidence": "Same SUV and parking position as 10"
+  },
+  {
+    "crop": "crops/reviewed_v2_4782ae9c4aca4aac.jpg",
+    "source": "group_b239a451d79de391",
+    "brand": "Chevrolet",
+    "colour": "black",
+    "vehicle_id": "chevrolet_trailblazer_black",
+    "photo": "cars_photos/photo_12_2026-10-26_17-10-50.jpg",
+    "bbox": "[0, 358, 960, 1113]",
+    "evidence": "TRAILBLAZER side badge; same car as 16"
+  },
+  {
+    "crop": "crops/reviewed_v2_9cf527ef65b270fe.jpg",
+    "source": "group_109c665d10a6d294",
+    "brand": "Deepal",
+    "colour": "black",
+    "vehicle_id": "deepal_black_261",
+    "photo": "cars_photos/photo_14_2026-10-26_17-10-50.jpg",
+    "bbox": "[86, 396, 844, 1036]",
+    "evidence": "Rear Deepal emblem and S07 badge"
+  },
+  {
+    "crop": "crops/reviewed_v2_2dc20393ee3a5661.jpg",
+    "source": "group_9ce8c924c4552a48",
+    "brand": "Chevrolet",
+    "colour": "white",
+    "vehicle_id": "chevrolet_white_spark_parking",
+    "photo": "cars_photos/photo_15_2026-10-26_17-10-50.jpg",
+    "bbox": "[57, 499, 412, 691]",
+    "evidence": "Chevrolet bowtie on white hatchback at left"
+  },
+  {
+    "crop": "crops/reviewed_v2_5037515c59e6257c.jpg",
+    "source": "group_b239a451d79de391",
+    "brand": "Chevrolet",
+    "colour": "black",
+    "vehicle_id": "chevrolet_trailblazer_black",
+    "photo": "cars_photos/photo_16_2026-10-26_17-10-50.jpg",
+    "bbox": "[0, 51, 960, 1075]",
+    "evidence": "Large rear Chevrolet bowtie and Trailblazer lettering"
+  },
+  {
+    "crop": "crops/reviewed_v2_c223e953c0a2a126.jpg",
+    "source": "group_ff88998be95360f3",
+    "brand": "Li Auto",
+    "colour": "grey",
+    "vehicle_id": "li_auto_grey_611",
+    "photo": "cars_photos/photo_18_2026-10-26_17-10-50.jpg",
+    "bbox": "[297, 409, 960, 947]",
+    "evidence": "Li hood emblem; grey body"
+  },
+  {
+    "crop": "crops/reviewed_v2_02404e9d16d82263.jpg",
+    "source": "group_4fa0208d8d5d3685",
+    "brand": "BMW",
+    "colour": "black",
+    "vehicle_id": "bmw_black_065",
+    "photo": "cars_photos/photo_19_2026-10-26_17-10-50.jpg",
+    "bbox": "[96, 460, 758, 1011]",
+    "evidence": "BMW roundel and grille"
+  },
+  {
+    "crop": "crops/reviewed_v2_1f169ecde74256b3.jpg",
+    "source": "group_c763a91ff83d8d2e",
+    "brand": "BYD",
+    "colour": "black",
+    "vehicle_id": "byd_black_265",
+    "photo": "cars_photos/photo_20_2026-10-26_17-10-50.jpg",
+    "bbox": "[0, 294, 960, 1075]",
+    "evidence": "Front emblem; plate links 59 and 61"
+  },
+  {
+    "crop": "crops/reviewed_v2_2b929e756d056e13.jpg",
+    "source": "group_0a8dd42e3d3d097e",
+    "brand": "Chevrolet",
+    "colour": "white",
+    "vehicle_id": "chevrolet_white_267",
+    "photo": "cars_photos/photo_22_2026-10-26_17-10-50.jpg",
+    "bbox": "[278, 64, 787, 576]",
+    "evidence": "Rear Chevrolet bowtie"
+  },
+  {
+    "crop": "crops/reviewed_v2_a2c1107ced11af68.jpg",
+    "source": "group_5ca06f731014e2e0",
+    "brand": "Chevrolet",
+    "colour": "grey",
+    "vehicle_id": "chevrolet_grey_058",
+    "photo": "cars_photos/photo_24_2026-10-26_17-10-50.jpg",
+    "bbox": "[384, 614, 662, 947]",
+    "evidence": "Rear Chevrolet bowtie; same visible car at left of 61"
+  },
+  {
+    "crop": "crops/reviewed_v2_467e324df10ad0a4.jpg",
+    "source": "group_c30b65644f7f4fee",
+    "brand": "Chevrolet",
+    "colour": "black",
+    "vehicle_id": "chevrolet_black_090",
+    "photo": "cars_photos/photo_25_2026-10-26_17-10-50.jpg",
+    "bbox": "[211, 422, 777, 1036]",
+    "evidence": "Rear Chevrolet bowtie"
+  },
+  {
+    "crop": "crops/reviewed_v2_0ab2a4552798b539.jpg",
+    "source": "group_af8df7d185d24459",
+    "brand": "Chevrolet",
+    "colour": "black",
+    "vehicle_id": "chevrolet_black_519",
+    "photo": "cars_photos/photo_26_2026-10-26_17-10-50.jpg",
+    "bbox": "[220, 448, 470, 793]",
+    "evidence": "Front Chevrolet bowtie on left parked car"
+  },
+  {
+    "crop": "crops/reviewed_v2_81ed9fc1227bc2bd.jpg",
+    "source": "group_84f9064a33f90b60",
+    "brand": "Kia",
+    "colour": "white",
+    "vehicle_id": "kia_white_080",
+    "photo": "cars_photos/photo_27_2026-10-26_17-10-50.jpg",
+    "bbox": "[0, 448, 518, 870]",
+    "evidence": "Oval KIA badge on white sedan"
+  },
+  {
+    "crop": "crops/reviewed_v2_496696b6a34c1342.jpg",
+    "source": "group_84f9064a33f90b60",
+    "brand": "Kia",
+    "colour": "grey",
+    "vehicle_id": "kia_grey_484",
+    "photo": "cars_photos/photo_27_2026-10-26_17-10-50.jpg",
+    "bbox": "[307, 422, 844, 742]",
+    "evidence": "New KIA wordmark on grey SUV"
+  },
+  {
+    "crop": "crops/reviewed_v2_f12bbb8341faeb6e.jpg",
+    "source": "group_c3879fbdfc2eca8b",
+    "brand": "Leapmotor",
+    "colour": "white",
+    "vehicle_id": "leapmotor_white_015",
+    "photo": "cars_photos/photo_28_2026-10-26_17-10-50.jpg",
+    "bbox": "[192, 192, 940, 691]",
+    "evidence": "Clear Leapmotor hood emblem"
+  },
+  {
+    "crop": "crops/reviewed_v2_ebed85cce5ff91c5.jpg",
+    "source": "group_fbc2a5e381f21178",
+    "brand": "Deepal",
+    "colour": "white",
+    "vehicle_id": "deepal_white_199",
+    "photo": "cars_photos/photo_29_2026-10-26_17-10-50.jpg",
+    "bbox": "[57, 550, 960, 1075]",
+    "evidence": "Distinct Deepal emblem matching S07 reference; rear partly occluded by foliage"
+  },
+  {
+    "crop": "crops/reviewed_v2_ec7509c4b31b9a6b.jpg",
+    "source": "group_3fcb31e3058190d5",
+    "brand": "Kia",
+    "colour": "black",
+    "vehicle_id": "kia_black_867",
+    "photo": "cars_photos/photo_30_2026-10-26_17-10-50.jpg",
+    "bbox": "[278, 473, 940, 1062]",
+    "evidence": "New KIA wordmark"
+  },
+  {
+    "crop": "crops/reviewed_v2_47ca93ff8cd031d2.jpg",
+    "source": "group_84f9064a33f90b60",
+    "brand": "Kia",
+    "colour": "white",
+    "vehicle_id": "kia_white_080",
+    "photo": "cars_photos/photo_32_2026-10-26_17-10-50.jpg",
+    "bbox": "[240, 358, 700, 691]",
+    "evidence": "Same plate and sedan as 27"
+  },
+  {
+    "crop": "crops/reviewed_v2_d4f309bb8d248efe.jpg",
+    "source": "group_84f9064a33f90b60",
+    "brand": "Kia",
+    "colour": "grey",
+    "vehicle_id": "kia_grey_484",
+    "photo": "cars_photos/photo_32_2026-10-26_17-10-50.jpg",
+    "bbox": "[528, 345, 960, 652]",
+    "evidence": "Same KIA SUV and parking bay as 27; rear outside right frame"
+  },
+  {
+    "crop": "crops/reviewed_v2_938b3e0c63f0ceaa.jpg",
+    "source": "group_d86de9973e6c54fa",
+    "brand": "BMW",
+    "colour": "grey",
+    "vehicle_id": "bmw_grey_460",
+    "photo": "cars_photos/photo_35_2026-10-26_17-10-50.jpg",
+    "bbox": "[124, 371, 931, 972]",
+    "evidence": "BMW hood roundel"
+  },
+  {
+    "crop": "crops/reviewed_v2_ebe31dbe43e53692.jpg",
+    "source": "group_f3bb35abc0ed0ff8",
+    "brand": "BYD",
+    "colour": "grey",
+    "vehicle_id": "byd_grey_757",
+    "photo": "cars_photos/photo_37_2026-10-26_17-10-50.jpg",
+    "bbox": "[96, 281, 960, 1024]",
+    "evidence": "Front BYD lettering"
+  },
+  {
+    "crop": "crops/reviewed_v2_b17ef773d95d4b88.jpg",
+    "source": "group_678ed99ec032f57a",
+    "brand": "Chevrolet",
+    "colour": "grey",
+    "vehicle_id": "chevrolet_grey_348",
+    "photo": "cars_photos/photo_39_2026-10-26_17-10-50.jpg",
+    "bbox": "[374, 384, 816, 704]",
+    "evidence": "Front Chevrolet bowtie; full vehicle box replaces truncated old crop"
+  },
+  {
+    "crop": "crops/reviewed_v2_a26f4622f388833b.jpg",
+    "source": "group_40f5c79dfae67d46",
+    "brand": "Chevrolet",
+    "colour": "white",
+    "vehicle_id": "chevrolet_white_tracker",
+    "photo": "cars_photos/photo_40_2026-10-26_17-10-50.jpg",
+    "bbox": "[163, 332, 960, 1126]",
+    "evidence": "Rear Chevrolet bowtie"
+  },
+  {
+    "crop": "crops/reviewed_v2_8e83481d757c6a10.jpg",
+    "source": "group_5bf1b8f2d8a08738",
+    "brand": "Chevrolet",
+    "colour": "white",
+    "vehicle_id": "chevrolet_white_867",
+    "photo": "cars_photos/photo_42_2026-10-26_17-10-50.jpg",
+    "bbox": "[0, 601, 537, 1075]",
+    "evidence": "Rear Chevrolet bowtie"
+  },
+  {
+    "crop": "crops/reviewed_v2_5a09894aa2d46ecf.jpg",
+    "source": "group_445ced30cdf534bf",
+    "brand": "BYD",
+    "colour": "black",
+    "vehicle_id": "byd_black_005",
+    "photo": "cars_photos/photo_43_2026-10-26_17-10-50.jpg",
+    "bbox": "[403, 307, 960, 819]",
+    "evidence": "Rear BYD wordmark"
+  },
+  {
+    "crop": "crops/reviewed_v2_301b051080ac3f94.jpg",
+    "source": "group_c0e0d47c0ee351c6",
+    "brand": "Aion",
+    "colour": "white",
+    "vehicle_id": "aion_white_717",
+    "photo": "cars_photos/photo_44_2026-10-26_17-10-50.jpg",
+    "bbox": "[96, 217, 902, 998]",
+    "evidence": "GAC emblem; AION lettering in matching rear view 72"
+  },
+  {
+    "crop": "crops/reviewed_v2_d4eb1d2c8d504db9.jpg",
+    "source": "group_bde37b5927bb80d1",
+    "brand": "BYD",
+    "colour": "black",
+    "vehicle_id": "byd_black_478",
+    "photo": "cars_photos/photo_48_2026-10-26_17-10-50.jpg",
+    "bbox": "[345, 384, 854, 998]",
+    "evidence": "BYD front emblem"
+  },
+  {
+    "crop": "crops/reviewed_v2_226d6704dbbed6e2.jpg",
+    "source": "group_d0fbc8ef2c372369",
+    "brand": "Toyota",
+    "colour": "black",
+    "vehicle_id": "toyota_black_351",
+    "photo": "cars_photos/photo_51_2026-10-26_17-10-50.jpg",
+    "bbox": "[192, 486, 806, 832]",
+    "evidence": "Toyota oval emblem"
+  },
+  {
+    "crop": "crops/reviewed_v2_c6675c7bda473500.jpg",
+    "source": "group_65caf95b5d1ab7fa",
+    "brand": "BMW",
+    "colour": "grey",
+    "vehicle_id": "bmw_grey_yellow_plate",
+    "photo": "cars_photos/photo_52_2026-10-26_17-10-50.jpg",
+    "bbox": "[220, 512, 672, 793]",
+    "evidence": "BMW hood roundel; same grey BMW in right edge of 49"
+  },
+  {
+    "crop": "crops/reviewed_v2_df8edcc7320a1ccb.jpg",
+    "source": "group_29752ca9ea1ad7ff",
+    "brand": "Skoda",
+    "colour": "brown",
+    "vehicle_id": "skoda_brown_07026",
+    "photo": "cars_photos/photo_54_2026-10-26_17-10-50.jpg",
+    "bbox": "[297, 460, 787, 1036]",
+    "evidence": "Rear SKODA lettering; clearly bronze brown body"
+  },
+  {
+    "crop": "crops/reviewed_v2_326fdc0939adb06b.jpg",
+    "source": "group_866a5e648111769a",
+    "brand": "BYD",
+    "colour": "grey",
+    "vehicle_id": "byd_grey_492",
+    "photo": "cars_photos/photo_55_2026-10-26_17-10-50.jpg",
+    "bbox": "[307, 550, 960, 960]",
+    "evidence": "BYD hood wordmark"
+  },
+  {
+    "crop": "crops/reviewed_v2_9462f3a30cc092a1.jpg",
+    "source": "group_97e8ff7d1197929a",
+    "brand": "Chery",
+    "colour": "brown",
+    "vehicle_id": "chery_beige_taxi",
+    "photo": "cars_photos/photo_56_2026-10-26_17-10-50.jpg",
+    "bbox": "[19, 716, 1555, 2201]",
+    "evidence": "Chery rear emblem; beige body maps to brown not white"
+  },
+  {
+    "crop": "crops/reviewed_v2_fd0d65eaf17e6817.jpg",
+    "source": "group_494a73c5cefd0422",
+    "brand": "Zeekr",
+    "colour": "grey",
+    "vehicle_id": "zeekr_grey_956",
+    "photo": "cars_photos/photo_57_2026-10-26_17-10-50.jpg",
+    "bbox": "[230, 844, 1824, 2048]",
+    "evidence": "Same wheels body and location as front view 58"
+  },
+  {
+    "crop": "crops/reviewed_v2_479dcac53cbc5f51.jpg",
+    "source": "group_494a73c5cefd0422",
+    "brand": "Zeekr",
+    "colour": "grey",
+    "vehicle_id": "zeekr_grey_956",
+    "photo": "cars_photos/photo_58_2026-10-26_17-10-50.jpg",
+    "bbox": "[153, 588, 1881, 2176]",
+    "evidence": "Clear rectangular Zeekr hood badge"
+  },
+  {
+    "crop": "crops/reviewed_v2_ce2bb2c8bdced253.jpg",
+    "source": "group_c763a91ff83d8d2e",
+    "brand": "BYD",
+    "colour": "black",
+    "vehicle_id": "byd_black_265",
+    "photo": "cars_photos/photo_59_2026-10-26_17-10-50.jpg",
+    "bbox": "[384, 819, 1689, 2048]",
+    "evidence": "Plate matches 20 and 61"
+  },
+  {
+    "crop": "crops/reviewed_v2_953dcd1ed544c0d0.jpg",
+    "source": "group_c763a91ff83d8d2e",
+    "brand": "BYD",
+    "colour": "black",
+    "vehicle_id": "byd_black_265",
+    "photo": "cars_photos/photo_60_2026-10-26_17-10-50.jpg",
+    "bbox": "[288, 1024, 1920, 2304]",
+    "evidence": "Same sedan wheels location and continuous sequence as 59 and 61"
+  },
+  {
+    "crop": "crops/reviewed_v2_86b182a98984818d.jpg",
+    "source": "group_c763a91ff83d8d2e",
+    "brand": "BYD",
+    "colour": "black",
+    "vehicle_id": "byd_black_265",
+    "photo": "cars_photos/photo_61_2026-10-26_17-10-50.jpg",
+    "bbox": "[230, 588, 1651, 2124]",
+    "evidence": "Same plate and front emblem as 20"
+  },
+  {
+    "crop": "crops/reviewed_v2_abb034daf7f0b907.jpg",
+    "source": "group_ac9a68b87c25a0f1",
+    "brand": "Tesla",
+    "colour": "white",
+    "vehicle_id": "tesla_white_359",
+    "photo": "cars_photos/photo_62_2026-10-26_17-10-50.jpg",
+    "bbox": "[633, 896, 1920, 2099]",
+    "evidence": "Tesla T rear badge; matching plate in 38"
+  },
+  {
+    "crop": "crops/reviewed_v2_855e9dcc27253738.jpg",
+    "source": "group_ac9a68b87c25a0f1",
+    "brand": "Tesla",
+    "colour": "white",
+    "vehicle_id": "tesla_white_359",
+    "photo": "cars_photos/photo_65_2026-10-26_17-10-50.jpg",
+    "bbox": "[480, 972, 1824, 1971]",
+    "evidence": "Same white Tesla in road sequence as 62; grouped conservatively"
+  },
+  {
+    "crop": "crops/reviewed_v2_fedfdc6b0963c851.jpg",
+    "source": "group_f3bb35abc0ed0ff8",
+    "brand": "BYD",
+    "colour": "grey",
+    "vehicle_id": "byd_grey_757",
+    "photo": "cars_photos/photo_70_2026-10-26_17-10-50.jpg",
+    "bbox": "[76, 691, 1728, 2227]",
+    "evidence": "BYD rear lettering; same grey sedan wheel pattern as 37; conservative identity merge"
+  },
+  {
+    "crop": "crops/reviewed_v2_2320166255c9a3cb.jpg",
+    "source": "group_c0e0d47c0ee351c6",
+    "brand": "Aion",
+    "colour": "white",
+    "vehicle_id": "aion_white_717",
+    "photo": "cars_photos/photo_72_2026-10-26_17-10-50.jpg",
+    "bbox": "[57, 512, 1881, 2329]",
+    "evidence": "Rear AION lettering and matching plate"
+  },
+  {
+    "crop": "crops/reviewed_v2_422236ddebf745d8.jpg",
+    "source": "group_31fa95313838aea9",
+    "brand": "BYD",
+    "colour": "white",
+    "vehicle_id": "byd_white_209",
+    "photo": "cars_photos/photo_73_2026-10-26_17-10-50.jpg",
+    "bbox": "[153, 614, 1766, 2355]",
+    "evidence": "Large BYD front lettering"
+  },
+  {
+    "crop": "crops/reviewed_v2_07d6afa5731b3bc6.jpg",
+    "source": "group_c0e0d47c0ee351c6",
+    "brand": "Aion",
+    "colour": "white",
+    "vehicle_id": "aion_white_717",
+    "photo": "cars_photos/photo_74_2026-10-26_17-10-50.jpg",
+    "bbox": "[172, 486, 1804, 2099]",
+    "evidence": "Same plate and front as 44"
+  },
+  {
+    "crop": "crops/reviewed_v2_5c14cef8e4616b60.jpg",
+    "source": "group_31fa95313838aea9",
+    "brand": "BYD",
+    "colour": "white",
+    "vehicle_id": "byd_white_209",
+    "photo": "cars_photos/photo_75_2026-10-26_17-10-50.jpg",
+    "bbox": "[268, 614, 1651, 1817]",
+    "evidence": "Rear BYD lettering and matching plate"
+  },
+  {
+    "crop": "crops/reviewed_v2_4b502ac24547175b.jpg",
+    "source": "group_39fb413b1a0bbfa0",
+    "brand": "Leapmotor",
+    "colour": "black",
+    "vehicle_id": "leapmotor_black_701",
+    "photo": "cars_photos/photo_76_2026-10-26_17-10-50.jpg",
+    "bbox": "[595, 537, 1344, 1203]",
+    "evidence": "Clear Leapmotor hood emblem matching 28"
+  },
+  {
+    "crop": "crops/reviewed_v2_3ba8be0ad3343448.jpg",
+    "source": "group_39fb413b1a0bbfa0",
+    "brand": "Chevrolet",
+    "colour": "white",
+    "vehicle_id": "chevrolet_white_spark_garage",
+    "photo": "cars_photos/photo_76_2026-10-26_17-10-50.jpg",
+    "bbox": "[0, 588, 691, 1075]",
+    "evidence": "Gold bowtie on white hatchback at left"
+  }
+]

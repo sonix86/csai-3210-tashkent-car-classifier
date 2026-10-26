@@ -1,0 +1,5 @@
+{
+  "exit_code": 0,
+  "includes": "Python startup, imports, model loading, image read, CUDA inference and output save",
+  "process_wall_seconds": 4.8932568
+}

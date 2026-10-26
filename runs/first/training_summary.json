@@ -1,0 +1,12 @@
+{
+  "completed_epochs": 30,
+  "best_epoch": 22,
+  "epoch_loop_seconds": 18.96534840000004,
+  "training_wall_seconds": 19.172586499999852,
+  "weights_bytes": 24073291,
+  "peak_cuda_allocated_mib": 304.7158203125,
+  "peak_cuda_reserved_mib": 380.0,
+  "device": "cuda",
+  "dataset_fingerprint": "d8fa0bb34c95170625d37d45536057697e1813e6b6e008e407824f88443b6609",
+  "checkpoint_metadata_repair": "TorchVersion converted to str; model tensors unchanged"
+}

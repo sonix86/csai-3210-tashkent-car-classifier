@@ -1,0 +1,48 @@
+# Local runtimes, caches, installers and publication staging (never delete data).
+.python/
+.venv/
+venv/
+.setup/
+.cache/
+.publication/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+checks/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.log
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Binary models and datasets are distributed separately as release assets.
+*.pt
+*.pth
+*.onnx
+*.zip
+*.7z
+cars_photos/
+photos/
+data/crops/
+data/backups/
+data_external/downloads/
+data_external/crops/
+data_external/review/
+data_external/unreviewed.json
+
+# Retain first/second experiment reports, configs, metrics, CSV/PNG and source.
+# Other runs stay local until explicitly curated.
+runs/*
+!runs/first/
+!runs/second/
+runs/first/*.jpg
+runs/second/*.jpg

@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-26",
+  "pip_check": "passed; No broken requirements found",
+  "unit_tests": {
+    "passed": 11,
+    "failed": 0
+  },
+  "cli_help": [
+    "project.py --help",
+    "project.py train --help",
+    "project.py evaluate --help",
+    "project.py predict --help"
+  ],
+  "baseline_cuda_evaluate": {
+    "brand": 0.1,
+    "colour": 0.6
+  },
+  "new_cuda_prediction": {
+    "photo": "cars_photos/photo_76_2026-10-26_17-10-50.jpg",
+    "detected_cars": 2,
+    "inference_seconds": 0.3786863999994239,
+    "note": "Smoke check only, not a new accuracy estimate"
+  },
+  "comparison": {
+    "old": {
+      "brand": 0.1,
+      "colour": 0.6,
+      "joint": 0.1
+    },
+    "new": {
+      "brand": 0.1,
+      "colour": 0.7,
+      "joint": 0.0
+    }
+  },
+  "originals_verified_unchanged": 76,
+  "checkpoint_hashes": {
+    "first": "4dd17d10e9b1a6d92b5e2bc7a11b1c8027abf2d1278d643c755a14c3966e74e8",
+    "second": "d8149c8bd7ae0d69142b6fda2398dd8d713c5581cd0e105ac2d3af49ff710c55"
+  },
+  "release_archives": "CRC and every archived file SHA256 compared with local source; passed",
+  "restore_check": {
+    "folder": ".publication/restore-check",
+    "fresh_venv_install": false,
+    "environment": "Existing tested venv reused; code/data restored into separate clean folder",
+    "commands": [
+      {
+        "command": "python -m unittest test_dataset test_experiment test_augmented",
+        "exit_code": 0
+      },
+      {
+        "command": "python verify_dataset.py",
+        "exit_code": 0
+      },
+      {
+        "command": "python compare_augmented.py",
+        "exit_code": 0
+      }
+    ]
+  },
+  "portability_fixes": [
+    "Validation reads portable data/original_sha256.json rather than .setup absolute paths",
+    "Unit tests and verifier create checks directory when absent"
+  ],
+  "training_run_during_preparation": false,
+  "github_cli": {
+    "command": "gh auth status",
+    "result": "Command not found in PATH; standard Program Files executable absent",
+    "authorization": "Unknown; could not query"
+  },
+  "published": false
+}

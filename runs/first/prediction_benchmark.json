@@ -1,0 +1,230 @@
+{
+  "device": "cuda",
+  "model_load_seconds": 1.1890978000001269,
+  "brand_threshold": 0.4,
+  "weights_sha256": "4dd17d10e9b1a6d92b5e2bc7a11b1c8027abf2d1278d643c755a14c3966e74e8",
+  "cases": [
+    {
+      "image": "cars_photos/photo_27_2026-10-26_17-10-50.jpg",
+      "annotation_subset": "training",
+      "annotated_objects": 2,
+      "detected_cars": 2,
+      "matches_iou_0_5": [
+        {
+          "vehicle_id": "kia_white_080",
+          "ground_truth_brand": "Kia",
+          "ground_truth_colour": "white",
+          "matched_iou": 0.924413072517338,
+          "prediction": {
+            "index": 2,
+            "box": [
+              0,
+              450,
+              509,
+              847
+            ],
+            "detection_confidence": 0.9325317740440369,
+            "brand": "Kia",
+            "brand_top1": "Kia",
+            "colour": "white",
+            "brand_confidence": 0.9339414834976196,
+            "colour_confidence": 0.9476299285888672
+          },
+          "brand_top1_correct": true,
+          "displayed_brand_correct": true,
+          "colour_correct": true
+        },
+        {
+          "vehicle_id": "kia_grey_484",
+          "ground_truth_brand": "Kia",
+          "ground_truth_colour": "grey",
+          "matched_iou": 0.9095670391061452,
+          "prediction": {
+            "index": 1,
+            "box": [
+              314,
+              427,
+              835,
+              727
+            ],
+            "detection_confidence": 0.8737180233001709,
+            "brand": "Kia",
+            "brand_top1": "Kia",
+            "colour": "grey",
+            "brand_confidence": 0.9565905928611755,
+            "colour_confidence": 0.9232112169265747
+          },
+          "brand_top1_correct": true,
+          "displayed_brand_correct": true,
+          "colour_correct": true
+        }
+      ],
+      "cars": [
+        {
+          "index": 1,
+          "box": [
+            314,
+            427,
+            835,
+            727
+          ],
+          "detection_confidence": 0.8737180233001709,
+          "brand": "Kia",
+          "brand_top1": "Kia",
+          "colour": "grey",
+          "brand_confidence": 0.9565905928611755,
+          "colour_confidence": 0.9232112169265747
+        },
+        {
+          "index": 2,
+          "box": [
+            0,
+            450,
+            509,
+            847
+          ],
+          "detection_confidence": 0.9325317740440369,
+          "brand": "Kia",
+          "brand_top1": "Kia",
+          "colour": "white",
+          "brand_confidence": 0.9339414834976196,
+          "colour_confidence": 0.9476299285888672
+        }
+      ],
+      "read_seconds": 0.015844600000491482,
+      "save_seconds": 0.006235500000002503,
+      "first_inference_seconds": 0.3832136000000901,
+      "warmup_calls": 2,
+      "timed_repetitions": 10,
+      "warm_inference_median_seconds": 0.014704349999647093,
+      "warm_inference_min_seconds": 0.01434530000005907,
+      "warm_inference_max_seconds": 0.020528799999738112,
+      "timed_seconds": [
+        0.020528799999738112,
+        0.01580759999978909,
+        0.01510340000004362,
+        0.014727099999618076,
+        0.014671099999759463,
+        0.014764200000172423,
+        0.01434530000005907,
+        0.01468159999967611,
+        0.014434899999287154,
+        0.014669900000626512
+      ],
+      "annotated_output": "D:\\C\u043a\u0430\u0447\u043a\u0438\\csai3210_dataset_v2\\runs\\first\\predict_photo_27.jpg",
+      "original_unchanged": true
+    },
+    {
+      "image": "cars_photos/photo_76_2026-10-26_17-10-50.jpg",
+      "annotation_subset": "validation",
+      "annotated_objects": 2,
+      "detected_cars": 2,
+      "matches_iou_0_5": [
+        {
+          "vehicle_id": "leapmotor_black_701",
+          "ground_truth_brand": "Leapmotor",
+          "ground_truth_colour": "black",
+          "matched_iou": 0.8702534310010945,
+          "prediction": {
+            "index": 1,
+            "box": [
+              603,
+              539,
+              1317,
+              1147
+            ],
+            "detection_confidence": 0.8091761469841003,
+            "brand": "unknown",
+            "brand_top1": "Aion",
+            "colour": "white",
+            "brand_confidence": 0.2390124350786209,
+            "colour_confidence": 0.4322364032268524
+          },
+          "brand_top1_correct": false,
+          "displayed_brand_correct": false,
+          "colour_correct": false
+        },
+        {
+          "vehicle_id": "chevrolet_white_spark_garage",
+          "ground_truth_brand": "Chevrolet",
+          "ground_truth_colour": "white",
+          "matched_iou": 0.9293146647877276,
+          "prediction": {
+            "index": 2,
+            "box": [
+              0,
+              589,
+              703,
+              1049
+            ],
+            "detection_confidence": 0.9036722779273987,
+            "brand": "Kia",
+            "brand_top1": "Kia",
+            "colour": "white",
+            "brand_confidence": 0.5929529666900635,
+            "colour_confidence": 0.66559237241745
+          },
+          "brand_top1_correct": false,
+          "displayed_brand_correct": false,
+          "colour_correct": true
+        }
+      ],
+      "cars": [
+        {
+          "index": 1,
+          "box": [
+            603,
+            539,
+            1317,
+            1147
+          ],
+          "detection_confidence": 0.8091761469841003,
+          "brand": "unknown",
+          "brand_top1": "Aion",
+          "colour": "white",
+          "brand_confidence": 0.2390124350786209,
+          "colour_confidence": 0.4322364032268524
+        },
+        {
+          "index": 2,
+          "box": [
+            0,
+            589,
+            703,
+            1049
+          ],
+          "detection_confidence": 0.9036722779273987,
+          "brand": "Kia",
+          "brand_top1": "Kia",
+          "colour": "white",
+          "brand_confidence": 0.5929529666900635,
+          "colour_confidence": 0.66559237241745
+        }
+      ],
+      "read_seconds": 0.0514591000001019,
+      "save_seconds": 0.02148349999970378,
+      "first_inference_seconds": 0.01804050000009738,
+      "warmup_calls": 2,
+      "timed_repetitions": 10,
+      "warm_inference_median_seconds": 0.017218200000115758,
+      "warm_inference_min_seconds": 0.01697150000018155,
+      "warm_inference_max_seconds": 0.019375400000171794,
+      "timed_seconds": [
+        0.01707390000046871,
+        0.0172035000005053,
+        0.017102800000429852,
+        0.019375400000171794,
+        0.01711760000034701,
+        0.017498400000476977,
+        0.01697150000018155,
+        0.017498400000476977,
+        0.017232899999726214,
+        0.01748409999981959
+      ],
+      "annotated_output": "D:\\C\u043a\u0430\u0447\u043a\u0438\\csai3210_dataset_v2\\runs\\first\\predict_photo_76.jpg",
+      "original_unchanged": true
+    }
+  ],
+  "timing_scope": "GPU synchronized. Warm inference includes detector, transforms and batched classifier; excludes model loading, image disk read/write and process startup.",
+  "limitation": "Photo 27 is a training demonstration, photo 76 is held-out validation. Only annotated objects are matched; background annotations are incomplete. No detection mAP or generalization claim."
+}

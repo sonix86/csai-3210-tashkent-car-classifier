@@ -1,0 +1,121 @@
+{
+  "baseline_path": "runs/first/best.pt",
+  "baseline_backup": "runs/second/baseline_best.pt",
+  "baseline_sha256": "4dd17d10e9b1a6d92b5e2bc7a11b1c8027abf2d1278d643c755a14c3966e74e8",
+  "original_dataset_fingerprint": "d8fa0bb34c95170625d37d45536057697e1813e6b6e008e407824f88443b6609",
+  "validation_crops": [
+    "crops/reviewed_v2_1f169ecde74256b3.jpg",
+    "crops/reviewed_v2_ebed85cce5ff91c5.jpg",
+    "crops/reviewed_v2_ec7509c4b31b9a6b.jpg",
+    "crops/reviewed_v2_d4eb1d2c8d504db9.jpg",
+    "crops/reviewed_v2_c6675c7bda473500.jpg",
+    "crops/reviewed_v2_ce2bb2c8bdced253.jpg",
+    "crops/reviewed_v2_953dcd1ed544c0d0.jpg",
+    "crops/reviewed_v2_86b182a98984818d.jpg",
+    "crops/reviewed_v2_4b502ac24547175b.jpg",
+    "crops/reviewed_v2_3ba8be0ad3343448.jpg"
+  ],
+  "validation_rows": [
+    {
+      "crop": "crops/reviewed_v2_1f169ecde74256b3.jpg",
+      "source": "group_c763a91ff83d8d2e",
+      "brand": "BYD",
+      "colour": "black",
+      "vehicle_id": "byd_black_265",
+      "photo": "cars_photos/photo_20_2026-10-26_17-10-50.jpg",
+      "bbox": "[0, 294, 960, 1075]",
+      "evidence": "Front emblem; plate links 59 and 61"
+    },
+    {
+      "crop": "crops/reviewed_v2_ebed85cce5ff91c5.jpg",
+      "source": "group_fbc2a5e381f21178",
+      "brand": "Deepal",
+      "colour": "white",
+      "vehicle_id": "deepal_white_199",
+      "photo": "cars_photos/photo_29_2026-10-26_17-10-50.jpg",
+      "bbox": "[57, 550, 960, 1075]",
+      "evidence": "Distinct Deepal emblem matching S07 reference; rear partly occluded by foliage"
+    },
+    {
+      "crop": "crops/reviewed_v2_ec7509c4b31b9a6b.jpg",
+      "source": "group_3fcb31e3058190d5",
+      "brand": "Kia",
+      "colour": "black",
+      "vehicle_id": "kia_black_867",
+      "photo": "cars_photos/photo_30_2026-10-26_17-10-50.jpg",
+      "bbox": "[278, 473, 940, 1062]",
+      "evidence": "New KIA wordmark"
+    },
+    {
+      "crop": "crops/reviewed_v2_d4eb1d2c8d504db9.jpg",
+      "source": "group_bde37b5927bb80d1",
+      "brand": "BYD",
+      "colour": "black",
+      "vehicle_id": "byd_black_478",
+      "photo": "cars_photos/photo_48_2026-10-26_17-10-50.jpg",
+      "bbox": "[345, 384, 854, 998]",
+      "evidence": "BYD front emblem"
+    },
+    {
+      "crop": "crops/reviewed_v2_c6675c7bda473500.jpg",
+      "source": "group_65caf95b5d1ab7fa",
+      "brand": "BMW",
+      "colour": "grey",
+      "vehicle_id": "bmw_grey_yellow_plate",
+      "photo": "cars_photos/photo_52_2026-10-26_17-10-50.jpg",
+      "bbox": "[220, 512, 672, 793]",
+      "evidence": "BMW hood roundel; same grey BMW in right edge of 49"
+    },
+    {
+      "crop": "crops/reviewed_v2_ce2bb2c8bdced253.jpg",
+      "source": "group_c763a91ff83d8d2e",
+      "brand": "BYD",
+      "colour": "black",
+      "vehicle_id": "byd_black_265",
+      "photo": "cars_photos/photo_59_2026-10-26_17-10-50.jpg",
+      "bbox": "[384, 819, 1689, 2048]",
+      "evidence": "Plate matches 20 and 61"
+    },
+    {
+      "crop": "crops/reviewed_v2_953dcd1ed544c0d0.jpg",
+      "source": "group_c763a91ff83d8d2e",
+      "brand": "BYD",
+      "colour": "black",
+      "vehicle_id": "byd_black_265",
+      "photo": "cars_photos/photo_60_2026-10-26_17-10-50.jpg",
+      "bbox": "[288, 1024, 1920, 2304]",
+      "evidence": "Same sedan wheels location and continuous sequence as 59 and 61"
+    },
+    {
+      "crop": "crops/reviewed_v2_86b182a98984818d.jpg",
+      "source": "group_c763a91ff83d8d2e",
+      "brand": "BYD",
+      "colour": "black",
+      "vehicle_id": "byd_black_265",
+      "photo": "cars_photos/photo_61_2026-10-26_17-10-50.jpg",
+      "bbox": "[230, 588, 1651, 2124]",
+      "evidence": "Same plate and front emblem as 20"
+    },
+    {
+      "crop": "crops/reviewed_v2_4b502ac24547175b.jpg",
+      "source": "group_39fb413b1a0bbfa0",
+      "brand": "Leapmotor",
+      "colour": "black",
+      "vehicle_id": "leapmotor_black_701",
+      "photo": "cars_photos/photo_76_2026-10-26_17-10-50.jpg",
+      "bbox": "[595, 537, 1344, 1203]",
+      "evidence": "Clear Leapmotor hood emblem matching 28"
+    },
+    {
+      "crop": "crops/reviewed_v2_3ba8be0ad3343448.jpg",
+      "source": "group_39fb413b1a0bbfa0",
+      "brand": "Chevrolet",
+      "colour": "white",
+      "vehicle_id": "chevrolet_white_spark_garage",
+      "photo": "cars_photos/photo_76_2026-10-26_17-10-50.jpg",
+      "bbox": "[0, 588, 691, 1075]",
+      "evidence": "Gold bowtie on white hatchback at left"
+    }
+  ],
+  "limitation": "Original validation already used for first-run checkpoint selection. No gradient training on these crops; not a new blind test."
+}

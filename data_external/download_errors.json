@@ -1,0 +1,37 @@
+[
+  {
+    "id": "commons_192883581",
+    "brand": "Chery",
+    "error": "[Errno 2] No such file or directory: 'D:\\\\Cкачки\\\\csai3210_dataset_v2\\\\data_external\\\\downloads\\\\commons_192883581.jpg'"
+  },
+  {
+    "id": "commons_194559492",
+    "brand": "Chevrolet",
+    "error": "[Errno 2] No such file or directory: 'D:\\\\Cкачки\\\\csai3210_dataset_v2\\\\data_external\\\\downloads\\\\commons_194559492.jpg'"
+  },
+  {
+    "id": "commons_2647146",
+    "brand": "Kia",
+    "error": "[Errno 2] No such file or directory: 'D:\\\\Cкачки\\\\csai3210_dataset_v2\\\\data_external\\\\downloads\\\\commons_2647146.jpg'"
+  },
+  {
+    "id": "commons_190874574",
+    "brand": "Tesla",
+    "error": "[Errno 2] No such file or directory: 'D:\\\\Cкачки\\\\csai3210_dataset_v2\\\\data_external\\\\downloads\\\\commons_190874574.jpg'"
+  },
+  {
+    "id": "commons_155243197",
+    "brand": "Voyah",
+    "error": "[Errno 2] No such file or directory: 'D:\\\\Cкачки\\\\csai3210_dataset_v2\\\\data_external\\\\downloads\\\\commons_155243197.jpg'"
+  },
+  {
+    "id": "commons_173865779",
+    "brand": "Zeekr",
+    "error": "[Errno 2] No such file or directory: 'D:\\\\Cкачки\\\\csai3210_dataset_v2\\\\data_external\\\\downloads\\\\commons_173865779.jpg'"
+  },
+  {
+    "id": "commons_146140221",
+    "brand": "Zeekr",
+    "error": "[Errno 2] No such file or directory: 'D:\\\\Cкачки\\\\csai3210_dataset_v2\\\\data_external\\\\downloads\\\\commons_146140221.jpg'"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "architecture": "RegNet-Y-800MF dual head",
+  "backbone_weights": "ImageNet1K only",
+  "pretrained_brand_classifier": false,
+  "epochs": 30,
+  "batch": 8,
+  "body_lr": 0.0001,
+  "head_lr": 0.0005,
+  "weight_decay": 0.01,
+  "brand_loss_weight": 0.6,
+  "colour_loss_weight": 0.4,
+  "seed": 42,
+  "device": "cuda",
+  "gpu": "NVIDIA GeForce RTX 4070 SUPER",
+  "torch": "2.9.1+cu128",
+  "cuda_runtime": "12.8",
+  "amp": true,
+  "train_crops": 42,
+  "val_crops": 10,
+  "dataset_fingerprint": "d8fa0bb34c95170625d37d45536057697e1813e6b6e008e407824f88443b6609",
+  "selection": "0.6 brand accuracy + 0.4 colour accuracy; lower validation loss breaks ties",
+  "note": "Single fixed run; validation used for checkpoint selection, not an independent test set"
+}

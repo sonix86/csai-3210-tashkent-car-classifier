@@ -1,0 +1,32 @@
+{
+  "reviewed_crops": 52,
+  "unique_vehicle_groups": 37,
+  "split_groups": 35,
+  "photos_with_labels": 49,
+  "photos_reviewed": 76,
+  "brands": {
+    "Kia": 7,
+    "Voyah": 2,
+    "Chevrolet": 12,
+    "Haval": 2,
+    "Deepal": 2,
+    "Li Auto": 1,
+    "BMW": 3,
+    "BYD": 11,
+    "Leapmotor": 2,
+    "Aion": 3,
+    "Toyota": 1,
+    "Skoda": 1,
+    "Chery": 1,
+    "Zeekr": 2,
+    "Tesla": 2
+  },
+  "colours": {
+    "black": 19,
+    "white": 17,
+    "grey": 14,
+    "brown": 2
+  },
+  "status": "VISUALLY REVIEWED; FIRST TRAINING COMPLETED; SEE runs/first/REPORT.md",
+  "training_run": "runs/first"
+}

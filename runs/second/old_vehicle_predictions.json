@@ -1,0 +1,51 @@
+[
+  {
+    "vehicle_id": "byd_black_265",
+    "brand_true": "BYD",
+    "brand_pred": "Chevrolet",
+    "colour_true": "black",
+    "colour_pred": "black"
+  },
+  {
+    "vehicle_id": "deepal_white_199",
+    "brand_true": "Deepal",
+    "brand_pred": "Chevrolet",
+    "colour_true": "white",
+    "colour_pred": "white"
+  },
+  {
+    "vehicle_id": "kia_black_867",
+    "brand_true": "Kia",
+    "brand_pred": "Chevrolet",
+    "colour_true": "black",
+    "colour_pred": "grey"
+  },
+  {
+    "vehicle_id": "byd_black_478",
+    "brand_true": "BYD",
+    "brand_pred": "Chevrolet",
+    "colour_true": "black",
+    "colour_pred": "grey"
+  },
+  {
+    "vehicle_id": "bmw_grey_yellow_plate",
+    "brand_true": "BMW",
+    "brand_pred": "BMW",
+    "colour_true": "grey",
+    "colour_pred": "grey"
+  },
+  {
+    "vehicle_id": "leapmotor_black_701",
+    "brand_true": "Leapmotor",
+    "brand_pred": "Aion",
+    "colour_true": "black",
+    "colour_pred": "grey"
+  },
+  {
+    "vehicle_id": "chevrolet_white_spark_garage",
+    "brand_true": "Chevrolet",
+    "brand_pred": "Kia",
+    "colour_true": "white",
+    "colour_pred": "white"
+  }
+]
